@@ -1,0 +1,3113 @@
+<?xml version="1.0"?>
+<locations>
+	<location name="Lurien">
+		<loadout difficulty="0">Right_City + CLAW + DREAMNAIL + WINGS + BOSS</loadout>
+		<loadout difficulty="1">Right_City + CLAW + DREAMNAIL + MILDSKIPS + BOSS</loadout>
+	</location>
+	<location name="Monomon">
+		<loadout difficulty="0">Teacher's_Archives + CLAW + DREAMNAIL + AERIALMINIBOSS + ACID</loadout>
+		<loadout difficulty="0">Teacher's_Archives + CLAW + DREAMNAIL + AERIALMINIBOSS + SUPERDASH</loadout>
+	</location>
+	<location name="Herrah">
+		<loadout difficulty="2">Beast's_Den + CLAW + DREAMNAIL</loadout>
+		<loadout difficulty="1">Beast's_Den + CLAW + DREAMNAIL + MINIBOSS</loadout>
+		<loadout difficulty="0">Beast's_Den + CLAW + DREAMNAIL + SHADOWDASH</loadout>
+	</location>
+	<location name="World_Sense">
+		<loadout difficulty="0">Crossroads + Lurien + Monomon + Herrah</loadout>
+	</location>
+	<location name="Dreamer">
+		<loadout difficulty="0"></loadout>
+	</location>
+	<location name="Mothwing_Cloak">
+		<loadout difficulty="2">Greenpath</loadout>
+		<loadout difficulty="2">Greenpath + MINIBOSS</loadout>
+	</location>
+	<location name="Mantis_Claw">
+		<loadout difficulty="0">Mantis_Village + DASH</loadout>
+		<loadout difficulty="0">Mantis_Village + WINGS</loadout>
+		<loadout difficulty="0">Mantis_Village + SUPERDASH + CLAW</loadout>
+		<loadout difficulty="3">Mantis_Village + MILDSKIPS</loadout>
+	</location>
+	<location name="Crystal_Heart">
+		<loadout difficulty="0">Upper_Crystal_Peak + SUPERDASH</loadout>
+		<loadout difficulty="1">Upper_Crystal_Peak + CLAW + DASH</loadout>
+		<loadout difficulty="2">Upper_Crystal_Peak + CLAW + WINGS</loadout>
+		<loadout difficulty="3">Upper_Crystal_Peak + CLAW + AIRSTALL</loadout>
+		<loadout difficulty="4">Upper_Crystal_Peak + WINGS + SHADESKIPS</loadout>
+	</location>
+	<location name="Monarch_Wings">
+		<loadout difficulty="2">Far_Left_Basin + CLAW + MINIBOSS</loadout>
+		<loadout difficulty="3">Far_Left_Basin + WINGS + MILDSKIPS + MINIBOSS</loadout>
+	</location>
+	<location name="Shade_Cloak">
+		<loadout difficulty="2">Abyss + CLAW + DASH</loadout>
+		<loadout difficulty="2">Abyss + CLAW + WINGS</loadout>
+		<loadout difficulty="3">Abyss + WINGS + SHADESKIPS</loadout>
+		<loadout difficulty="2">Abyss + WINGS + SHADOWDASH</loadout>
+		<loadout difficulty="0">Abyss + WINGS + VOIDHEART</loadout>
+	</location>
+	<location name="Isma's_Tear">
+		<loadout difficulty="0">Isma's_Grove</loadout>
+	</location>
+	<location name="Dream_Nail">
+		<loadout difficulty="0">Upper_Resting_Grounds</loadout>
+	</location>
+	<location name="Dream_Gate">
+		<loadout difficulty="0">Upper_Resting_Grounds + ESSENCECOUNT</loadout>
+	</location>
+	<location name="Awoken_Dream_Nail">
+		<loadout difficulty="0">Upper_Resting_Grounds + ESSENCECOUNT</loadout>
+	</location>
+	<location name="Vengeful_Spirit">
+		<loadout difficulty="0">Ancestral_Mound</loadout>
+	</location>
+	<location name="Shade_Soul">
+		<loadout difficulty="2">Soul_Sanctum + ELEGANT + MINIBOSS</loadout>
+	</location>
+	<location name="Desolate_Dive">
+		<loadout difficulty="3">Soul_Sanctum + CLAW</loadout>
+		<loadout difficulty="2">Soul_Sanctum + CLAW + AERIALMINIBOSS</loadout>
+		<loadout difficulty="3">Soul_Sanctum + WINGS</loadout>
+		<loadout difficulty="2">Soul_Sanctum + WINGS + AERIALMINIBOSS</loadout>
+	</location>
+	<location name="Descending_Dark">
+		<loadout difficulty="1">Crystallized_Mound + QUAKE + CLAW</loadout>
+		<loadout difficulty="2">Crystallized_Mound + QUAKE + WINGS</loadout>
+	</location>
+	<location name="Howling_Wraiths">
+		<loadout difficulty="2">Overgrown_Mound</loadout>
+		<loadout difficulty="1">Overgrown_Mound + MINIBOSS</loadout>
+	</location>
+	<location name="Abyss_Shriek">
+		<loadout difficulty="0">Abyss + SCREAM</loadout>
+	</location>
+	<location name="Cyclone_Slash">
+		<loadout difficulty="0">Howling_Cliffs</loadout>
+	</location>
+	<location name="Dash_Slash">
+		<loadout difficulty="0">Oro_Bench</loadout>
+	</location>
+	<location name="Great_Slash">
+		<loadout difficulty="0">Greenpath + CLAW + DASH + SUPERDASH</loadout>
+		<loadout difficulty="2">Greenpath + CLAW + DASH + WINGS</loadout>
+		<loadout difficulty="2">Greenpath + CLAW + WINGS + SUPERDASH</loadout>
+	</location>
+	<location name="Focus">
+		<loadout difficulty="0">King's_Pass</loadout>
+	</location>
+	<location name="Gathering_Swarm">
+		<loadout difficulty="0"></loadout>
+	</location>
+	<location name="Wayward_Compass">
+		<loadout difficulty="0"></loadout>
+	</location>
+	<location name="Grubsong">
+		<loadout difficulty="0">Crossroads + GRUBCOUNT</loadout>
+	</location>
+	<location name="Stalwart_Shell">
+		<loadout difficulty="0"></loadout>
+	</location>
+	<location name="Baldur_Shell">
+		<loadout difficulty="0">BALDURS + Howling_Cliffs</loadout>
+		<loadout difficulty="0">BALDURS + Greenpath + CLAW</loadout>
+		<loadout difficulty="0">BALDURS + Greenpath + WINGS</loadout>
+		<loadout difficulty="0">BALDURS + Greenpath + DASH</loadout>
+		<loadout difficulty="0">BALDURS + Greenpath + SUPERDASH</loadout>
+		<loadout difficulty="2">BALDURS + Greenpath + SHADESKIPS</loadout>
+	</location>
+	<location name="Fury_of_the_Fallen">
+		<loadout difficulty="0">King's_Pass</loadout>
+	</location>
+	<location name="Quick_Focus">
+		<loadout difficulty="0"></loadout>
+	</location>
+	<location name="Lifeblood_Heart">
+		<loadout difficulty="0"></loadout>
+	</location>
+	<location name="Lifeblood_Core">
+		<loadout difficulty="3">Abyss + LIFEBLOOD + SPICYSKIPS</loadout>
+		<loadout difficulty="1">Abyss + LIFEBLOOD + DASH + WINGS</loadout>
+	</location>
+	<location name="Defender's_Crest">
+		<loadout difficulty="0">Central_Left_Waterways + CLAW + BOSS</loadout>
+		<loadout difficulty="2">Central_Left_Waterways + WINGS + SPICYSKIPS + BOSS</loadout>
+	</location>
+	<location name="Flukenest">
+		<loadout difficulty="2">Lower_Left_Waterways + Vengeful_Spirit + Shade_Soul</loadout>
+		<loadout difficulty="0">Lower_Left_Waterways + Howling_Wraiths + Abyss_Shriek</loadout>
+		<loadout difficulty="2">Lower_Left_Waterways + BOSS + MILDSKIPS</loadout>
+		<loadout difficulty="6">Lower_Left_Waterways + CURSED + Vengeful_Spirit</loadout>
+		<loadout difficulty="4">Lower_Left_Waterways + CURSED + Howling_Wraiths</loadout>
+	</location>
+	<location name="Thorns_of_Agony">
+		<loadout difficulty="0">Greenpath + DASH</loadout>
+		<loadout difficulty="0">Greenpath + CLAW + SUPERDASH</loadout>
+	</location>
+	<location name="Mark_of_Pride">
+		<loadout difficulty="2">Mantis_Village + CLAW</loadout>
+		<loadout difficulty="1">Mantis_Village + CLAW + MINIBOSS</loadout>
+		<loadout difficulty="3">Mantis_Village + WINGS + MILDSKIPS</loadout>
+		<loadout difficulty="2">Mantis_Village + WINGS + MILDSKIPS + MINIBOSS</loadout>
+	</location>
+	<location name="Steady_Body">
+		<loadout difficulty="0"></loadout>
+	</location>
+	<location name="Heavy_Blow">
+		<loadout difficulty="0"></loadout>
+	</location>
+	<location name="Sharp_Shadow">
+		<loadout difficulty="0">Deepnest + SHADOWDASH</loadout>
+	</location>
+	<location name="Spore_Shroom">
+		<loadout difficulty="0">Bottom_Left_Fungal_Wastes + CLAW + ACID</loadout>
+		<loadout difficulty="0">Bottom_Left_Fungal_Wastes + CLAW + DASH</loadout>
+		<loadout difficulty="0">Bottom_Left_Fungal_Wastes + CLAW + SUPERDASH</loadout>
+		<loadout difficulty="0">Bottom_Left_Fungal_Wastes + WINGS + ACID</loadout>
+		<loadout difficulty="0">Bottom_Left_Fungal_Wastes + WINGS + DASH</loadout>
+		<loadout difficulty="0">Bottom_Left_Fungal_Wastes + WINGS + CLAW + SUPERDASH</loadout>
+	</location>
+	<location name="Longnail">
+		<loadout difficulty="0"></loadout>
+	</location>
+	<location name="Shaman_Stone">
+		<loadout difficulty="0"></loadout>
+	</location>
+	<location name="Soul_Catcher">
+		<loadout difficulty="0">Ancestral_Mound + CLAW</loadout>
+		<loadout difficulty="0">Ancestral_Mound + BALDURS</loadout>
+		<loadout difficulty="2">Ancestral_Mound + WINGS + SHADESKIPS</loadout>
+	</location>
+	<location name="Soul_Eater">
+		<loadout difficulty="1">Upper_Resting_Grounds + QUAKE + CLAW</loadout>
+		<loadout difficulty="1">Upper_Resting_Grounds + QUAKE + WINGS</loadout>
+	</location>
+	<location name="Glowing_Womb">
+		<loadout difficulty="0">Crossroads + SUPERDASH + CLAW</loadout>
+		<loadout difficulty="1">Crossroads + SUPERDASH + WINGS</loadout>
+		<loadout difficulty="1">Crossroads + SUPERDASH + INFECTED</loadout>
+		<loadout difficulty="2">Crossroads + TUNNEL + CLAW</loadout>
+		<loadout difficulty="3">Crossroads + TUNNEL + WINGS</loadout>
+		<loadout difficulty="4">Crossroads + TUNNEL + INFECTED</loadout>
+	</location>
+	<location name="Fragile_Heart">
+		<loadout difficulty="0"></loadout>
+	</location>
+	<location name="Fragile_Greed">
+		<loadout difficulty="0"></loadout>
+	</location>
+	<location name="Fragile_Strength">
+		<loadout difficulty="0"></loadout>
+	</location>
+	<location name="Nailmaster's_Glory">
+		<loadout difficulty="0">Dirtmouth + Crossroads + Cyclone_Slash + Dash_Slash + Great_Slash</loadout>
+	</location>
+	<location name="Joni's_Blessing">
+		<loadout difficulty="7">Howling_Cliffs + DARKROOMS</loadout>
+		<loadout difficulty="6">Howling_Cliffs + DARKROOMS + SUPERDASH</loadout>
+		<loadout difficulty="5">Howling_Cliffs + DARKROOMS + SUPERDASH + WINGS</loadout>
+		<loadout difficulty="5">Howling_Cliffs + DARKROOMS + SUPERDASH + CLAW</loadout>
+		<loadout difficulty="2">Howling_Cliffs + LANTERN</loadout>
+	</location>
+	<location name="Shape_of_Unn">
+		<loadout difficulty="0">Lake_of_Unn + ACID + CLAW</loadout>
+		<loadout difficulty="0">Lake_of_Unn + ACID + WINGS</loadout>
+		<loadout difficulty="5">Lake_of_Unn + SKIPACID + WINGS + FIREBALL + FIREBALLSKIPS + SPICYSKIPS</loadout>
+		<loadout difficulty="4">Lake_of_Unn + SKIPACID + WINGS + SHARPSHADOW + SPICYSKIPS</loadout>
+		<loadout difficulty="6">Lake_of_Unn + SPICYSKIPS + ACIDSKIPS + WINGS + SUPERDASH + SHARPSHADOW</loadout>
+	</location>
+	<location name="Hiveblood">
+		<loadout difficulty="5">Hive + CLAW + WINGS + BOSS</loadout>
+		<loadout difficulty="3">Hive + CLAW + WINGS + BOSS + Hiveblood</loadout>
+		<loadout difficulty="8">Hive + MILDSKIPS + CLAW + BOSS</loadout>
+		<loadout difficulty="7">Hive + MILDSKIPS + WINGS + BOSS</loadout>
+	</location>
+	<location name="Dream_Wielder">
+		<loadout difficulty="0">Upper_Resting_Grounds + ESSENCECOUNT</loadout>
+	</location>
+	<location name="Dashmaster">
+		<loadout difficulty="0">Mantis_Outskirts</loadout>
+	</location>
+	<location name="Quick_Slash">
+		<loadout difficulty="1">Oro_Bench + CLAW + QUAKE + DASH</loadout>
+		<loadout difficulty="4">Oro_Bench + CLAW + QUAKE + SPIKETUNNELS</loadout>
+		<loadout difficulty="2">Oro_Bench + WINGS + QUAKE + DASH</loadout>
+		<loadout difficulty="4">Oro_Bench + WINGS + QUAKE + SPIKETUNNELS</loadout>
+	</location>
+	<location name="Spell_Twister">
+		<loadout difficulty="2">Soul_Sanctum + CLAW</loadout>
+		<loadout difficulty="2">Soul_Sanctum + WINGS</loadout>
+	</location>
+	<location name="Deep_Focus">
+		<loadout difficulty="2">Upper_Crystal_Peak + CLAW + SUPERDASH</loadout>
+		<loadout difficulty="2">Upper_Crystal_Peak + WINGS + SUPERDASH</loadout>
+		<loadout difficulty="5">Upper_Crystal_Peak + SPICYSKIPS + WINGS + DASH</loadout>
+	</location>
+	<location name="Grubberfly's_Elegy">
+		<loadout difficulty="0">Crossroads + GRUBCOUNT</loadout>
+	</location>
+	<location name="Queen_Fragment">
+		<loadout difficulty="3">Far_Queen's_Gardens + SHADOWDASH + CLAW + BOSS</loadout>
+		<loadout difficulty="3">Far_Queen's_Gardens + SHADOWDASH + WINGS + BOSS</loadout>
+	</location>
+	<location name="King_Fragment">
+		<loadout difficulty="5">Palace_Grounds + AWOKEN + CLAW + DASH + WINGS + SUPERDASH</loadout>
+	</location>
+	<location name="Void_Heart">
+		<loadout difficulty="2">Abyss + SHADOWDASH + DREAMNAIL + KINGSOUL + MILDSKIPS</loadout>
+		<loadout difficulty="2">Abyss + SHADOWDASH + DREAMNAIL + KINGSOUL + CLAW</loadout>
+		<loadout difficulty="2">Abyss + SHADOWDASH + DREAMNAIL + KINGSOUL + WINGS</loadout>
+	</location>
+	<location name="Sprintmaster">
+		<loadout difficulty="0"></loadout>
+	</location>
+	<location name="Dreamshield">
+		<loadout difficulty="0">Upper_Resting_Grounds</loadout>
+	</location>
+	<location name="Weaversong">
+		<loadout difficulty="1">Weaver's_Den + CLAW</loadout>
+		<loadout difficulty="3">Weaver's_Den + WINGS</loadout>
+	</location>
+	<location name="Grimmchild">
+		<loadout difficulty="0">Dirtmouth + Howling_Cliffs + DREAMNAIL</loadout>
+		<loadout difficulty="0">Dirtmouth + Grimmchild</loadout>
+	</location>
+	<location name="City_Crest">
+		<loadout difficulty="1">Crossroads</loadout>
+	</location>
+	<location name="Lumafly_Lantern">
+		<loadout difficulty="0"></loadout>
+	</location>
+	<location name="Tram_Pass">
+		<loadout difficulty="0">Failed_Tramway + CLAW</loadout>
+		<loadout difficulty="1">Failed_Tramway + WINGS + MILDSKIPS</loadout>
+	</location>
+	<location name="Simple_Key-Sly">
+		<loadout difficulty="0"></loadout>
+	</location>
+	<location name="Simple_Key-Basin">
+		<loadout difficulty="1">Far_Left_Basin</loadout>
+	</location>
+	<location name="Simple_Key-City">
+		<loadout difficulty="0">Left_Elevator + DASH</loadout>
+		<loadout difficulty="0">Left_Elevator + WINGS</loadout>
+		<loadout difficulty="0">Left_Elevator + SUPERDASH</loadout>
+		<loadout difficulty="2">Left_Elevator + MILDSKIPS</loadout>
+	</location>
+	<location name="Simple_Key-Lurker">
+		<loadout difficulty="3">Pale_Lurker_Area + CLAW + BOSS</loadout>
+	</location>
+	<location name="Shopkeeper's_Key">
+		<loadout difficulty="2">Upper_Crystal_Peak + CLAW</loadout>
+		<loadout difficulty="3">Upper_Crystal_Peak + WINGS</loadout>
+	</location>
+	<location name="Elegant_Key">
+		<loadout difficulty="0"></loadout>
+	</location>
+	<location name="Love_Key">
+		<loadout difficulty="1">Bottom_Right_Queen's_Gardens + ACID</loadout>
+		<loadout difficulty="4">Bottom_Right_Queen's_Gardens + SKIPACID</loadout>
+		<loadout difficulty="2">Bottom_Right_Queen's_Gardens + SPICYSKIPS + CLAW + DASH + WINGS + Dashmaster</loadout>
+		<loadout difficulty="3">Bottom_Right_Queen's_Gardens + SPICYSKIPS + CLAW + DASH + WINGS + AIRSTALL</loadout>
+		<loadout difficulty="3">Bottom_Right_Queen's_Gardens + SPICYSKIPS + SHARPSHADOW + WINGS</loadout>
+	</location>
+	<location name="King's_Brand">
+		<loadout difficulty="5">Cast_Off_Shell + BOSS</loadout>
+	</location>
+	<location name="Godtuner">
+		<loadout difficulty="0">Junk_Pit + SIMPLE4</loadout>
+	</location>
+	<location name="Collector's_Map">
+		<loadout difficulty="4">Tower_of_Love + LOVE + CLAW + BOSS</loadout>
+		<loadout difficulty="6">Tower_of_Love + LOVE + WINGS + SPICYSKIPS + BOSS</loadout>
+	</location>
+	<location name="Mask_Shard-Sly1">
+		<loadout difficulty="0"></loadout>
+	</location>
+	<location name="Mask_Shard-Sly2">
+		<loadout difficulty="0"></loadout>
+	</location>
+	<location name="Mask_Shard-Sly3">
+		<loadout difficulty="0"></loadout>
+	</location>
+	<location name="Mask_Shard-Sly4">
+		<loadout difficulty="0"></loadout>
+	</location>
+	<location name="Mask_Shard-Seer">
+		<loadout difficulty="0">Upper_Resting_Grounds + ESSENCECOUNT</loadout>
+	</location>
+	<location name="Mask_Shard-5_Grubs">
+		<loadout difficulty="0">Crossroads + GRUBCOUNT</loadout>
+	</location>
+	<location name="Mask_Shard-Brooding_Mawlek">
+		<loadout difficulty="1">Crossroads + MINIBOSS</loadout>
+	</location>
+	<location name="Mask_Shard-Crossroads_Goam">
+		<loadout difficulty="0">Crossroads + CLAW</loadout>
+		<loadout difficulty="0">Crossroads + WINGS</loadout>
+		<loadout difficulty="2">Crossroads + MILDSKIPS</loadout>
+	</location>
+	<location name="Mask_Shard-Stone_Sanctuary">
+		<loadout difficulty="1">Stone_Sanctuary</loadout>
+	</location>
+	<location name="Mask_Shard-Queen's_Station">
+		<loadout difficulty="0">Queen's_Station + CLAW + DASH</loadout>
+		<loadout difficulty="0">Queen's_Station + CLAW + SUPERDASH</loadout>
+		<loadout difficulty="2">Queen's_Station + WINGS</loadout>
+	</location>
+	<location name="Mask_Shard-Deepnest">
+		<loadout difficulty="1">Fungal_Core</loadout>
+	</location>
+	<location name="Mask_Shard-Waterways">
+		<loadout difficulty="0">Upper_Left_Waterways</loadout>
+		<loadout difficulty="0">Far_Left_Waterways</loadout>
+	</location>
+	<location name="Mask_Shard-Enraged_Guardian">
+		<loadout difficulty="3">Upper_Crystal_Peak + CLAW + WINGS + BOSS</loadout>
+	</location>
+	<location name="Mask_Shard-Hive">
+		<loadout difficulty="4">Hive + CLAW + WINGS</loadout>
+		<loadout difficulty="2">Hive + CLAW + WINGS + Hiveblood</loadout>
+		<loadout difficulty="7">Hive + MILDSKIPS + CLAW</loadout>
+		<loadout difficulty="6">Hive + MILDSKIPS + WINGS</loadout>
+	</location>
+	<location name="Mask_Shard-Grey_Mourner">
+		<loadout difficulty="5">Upper_Resting_Grounds + Top_Left_Queen's_Gardens + QUAKE + CLAW + WINGS + SUPERDASH + ACID + SHADOWDASH</loadout>
+	</location>
+	<location name="Mask_Shard-Bretta">
+		<loadout difficulty="1">Mantis_Outskirts + Dirtmouth + CLAW + DASH</loadout>
+		<loadout difficulty="3">Mantis_Outskirts + Dirtmouth + CLAW + WINGS</loadout>
+		<loadout difficulty="1">Mantis_Outskirts + Dirtmouth + CLAW + SUPERDASH</loadout>
+		<loadout difficulty="4">Mantis_Outskirts + Dirtmouth + CLAW + AIRSTALL + SHADESKIPS</loadout>
+	</location>
+	<location name="Vessel_Fragment-Sly1">
+		<loadout difficulty="0"></loadout>
+	</location>
+	<location name="Vessel_Fragment-Sly2">
+		<loadout difficulty="0"></loadout>
+	</location>
+	<location name="Vessel_Fragment-Seer">
+		<loadout difficulty="0">Upper_Resting_Grounds + ESSENCECOUNT</loadout>
+	</location>
+	<location name="Vessel_Fragment-Greenpath">
+		<loadout difficulty="1">Greenpath + CLAW</loadout>
+		<loadout difficulty="1">Greenpath + SPICYSKIPS + WINGS</loadout>
+	</location>
+	<location name="Vessel_Fragment-City">
+		<loadout difficulty="3">Upper_King's_Station + MINIBOSS</loadout>
+	</location>
+	<location name="Vessel_Fragment-Crossroads">
+		<loadout difficulty="1">Left_Elevator</loadout>
+	</location>
+	<location name="Vessel_Fragment-Basin">
+		<loadout difficulty="0">Mid_Basin + CLAW</loadout>
+		<loadout difficulty="2">Mid_Basin + WINGS</loadout>
+	</location>
+	<location name="Vessel_Fragment-Deepnest">
+		<loadout difficulty="2">Deepnest + CLAW</loadout>
+		<loadout difficulty="2">Deepnest + WINGS</loadout>
+	</location>
+	<location name="Vessel_Fragment-Stag_Nest">
+		<loadout difficulty="0">Stag_Nest</loadout>
+	</location>
+	<location name="Charm_Notch-Shrumal_Ogres">
+		<loadout difficulty="2">Fungal_Wastes</loadout>
+		<loadout difficulty="1">Fungal_Wastes + MINIBOSS</loadout>
+	</location>
+	<location name="Charm_Notch-Fog_Canyon">
+		<loadout difficulty="2">Right_Fog_Canyon + CLAW + ACID</loadout>
+		<loadout difficulty="3">Right_Fog_Canyon + CLAW + DASH + SUPERDASH + ACIDSKIPS</loadout>
+		<loadout difficulty="3">Right_Fog_Canyon + CLAW + WINGS + DASH + ACIDSKIPS</loadout>
+		<loadout difficulty="4">Right_Fog_Canyon + CLAW + WINGS + AIRSTALL + ACIDSKIPS</loadout>
+		<loadout difficulty="-1">Right_Fog_Canyon + CLAW + DASH + SPICYSKIPS</loadout>
+	</location>
+	<location name="Charm_Notch-Colosseum">
+		<loadout difficulty="5">Colosseum + BOSS</loadout>
+	</location>
+	<location name="Charm_Notch-Grimm">
+		<loadout difficulty="4">Dirtmouth + Grimmchild + BOSS</loadout>
+		<loadout difficulty="3">Dirtmouth + Grimmchild + BOSS + DASH</loadout>
+		<loadout difficulty="3">Dirtmouth + Grimmchild + BOSS + WINGS</loadout>
+	</location>
+	<location name="Pale_Ore-Basin">
+		<loadout difficulty="1">Mid_Basin + CLAW</loadout>
+		<loadout difficulty="1">Mid_Basin + WINGS</loadout>
+		<loadout difficulty="2">Mid_Basin + DASH + MILDSKIPS</loadout>
+		<loadout difficulty="3">Mid_Basin + SPICYSKIPS</loadout>
+	</location>
+	<location name="Pale_Ore-Crystal_Peak">
+		<loadout difficulty="4">Hallownest's_Crown</loadout>
+	</location>
+	<location name="Pale_Ore-Nosk">
+		<loadout difficulty="2">Deepnest + CLAW + WINGS + BOSS</loadout>
+		<loadout difficulty="2">Deepnest + CLAW + SUPERDASH + BOSS</loadout>
+		<loadout difficulty="3">Deepnest + CLAW + SHADESKIPS + BOSS</loadout>
+	</location>
+	<location name="Pale_Ore-Seer">
+		<loadout difficulty="0">Upper_Resting_Grounds + ESSENCECOUNT</loadout>
+	</location>
+	<location name="Pale_Ore-Grubs">
+		<loadout difficulty="0">Crossroads + GRUBCOUNT</loadout>
+	</location>
+	<location name="Pale_Ore-Colosseum">
+		<loadout difficulty="5">Colosseum + CLAW + BOSS</loadout>
+		<loadout difficulty="6">Colosseum + SPICYSKIPS + WINGS + BOSS</loadout>
+	</location>
+	<location name="200_Geo-False_Knight_Chest">
+		<loadout difficulty="1">Crossroads</loadout>
+	</location>
+	<location name="380_Geo-Soul_Master_Chest">
+		<loadout difficulty="3">Soul_Sanctum + CLAW</loadout>
+		<loadout difficulty="2">Soul_Sanctum + CLAW + BOSS</loadout>
+	</location>
+	<location name="655_Geo-Watcher_Knights_Chest">
+		<loadout difficulty="4">Right_City + CLAW + WINGS + BOSS</loadout>
+		<loadout difficulty="4">Right_City + CLAW + MILDSKIPS + BOSS</loadout>
+	</location>
+	<location name="85_Geo-Greenpath_Chest">
+		<loadout difficulty="0">Greenpath + DASH</loadout>
+		<loadout difficulty="0">Greenpath + CLAW</loadout>
+		<loadout difficulty="0">Greenpath + WINGS</loadout>
+		<loadout difficulty="0">Greenpath + SUPERDASH</loadout>
+		<loadout difficulty="2">Greenpath + AIRSTALL</loadout>
+		<loadout difficulty="3">Greenpath + SHADESKIPS</loadout>
+	</location>
+	<location name="620_Geo-Mantis_Lords_Chest">
+		<loadout difficulty="2">Mantis_Village + CLAW</loadout>
+		<loadout difficulty="2">Mantis_Village + WINGS + MILDSKIPS</loadout>
+	</location>
+	<location name="150_Geo-Resting_Grounds_Chest">
+		<loadout difficulty="1">Upper_Resting_Grounds + QUAKE</loadout>
+	</location>
+	<location name="80_Geo-Crystal_Peak_Chest">
+		<loadout difficulty="3">Upper_Crystal_Peak + CLAW + Sprintmaster + Dashmaster</loadout>
+		<loadout difficulty="2">Upper_Crystal_Peak + CLAW + DASH</loadout>
+		<loadout difficulty="5">Upper_Crystal_Peak + CLAW + SUPERDASH + SPICYSKIPS</loadout>
+		<loadout difficulty="2">Upper_Crystal_Peak + WINGS + Grubberfly's_Elegy + SHADESKIPS + SPICYSKIPS + DASH</loadout>
+		<loadout difficulty="3">Upper_Crystal_Peak + WINGS + Grubberfly's_Elegy + SHADESKIPS + SPICYSKIPS + Sprintmaster + Dashmaster</loadout>
+	</location>
+	<location name="160_Geo-Weavers_Den_Chest">
+		<loadout difficulty="1">Weaver's_Den + CLAW + SUPERDASH + SPIKETUNNELS</loadout>
+		<loadout difficulty="1">Weaver's_Den + CLAW + SUPERDASH + DASH</loadout>
+		<loadout difficulty="3">Weaver's_Den + WINGS + DASH</loadout>
+	</location>
+	<location name="1_Geo">
+		<loadout difficulty="0"></loadout>
+	</location>
+	<location name="Rancid_Egg-Sly">
+		<loadout difficulty="0"></loadout>
+	</location>
+	<location name="Rancid_Egg-Grubs">
+		<loadout difficulty="0">Crossroads + GRUBCOUNT</loadout>
+	</location>
+	<location name="Rancid_Egg-Sheo">
+		<loadout difficulty="1">Greenpath + CLAW + DASH + SUPERDASH</loadout>
+		<loadout difficulty="2">Greenpath + CLAW + DASH + WINGS</loadout>
+		<loadout difficulty="3">Greenpath + CLAW + WINGS + SUPERDASH</loadout>
+	</location>
+	<location name="Rancid_Egg-Fungal_Core">
+		<loadout difficulty="0">Fungal_Core + CLAW</loadout>
+		<loadout difficulty="0">Fungal_Core + WINGS</loadout>
+	</location>
+	<location name="Rancid_Egg-Queen's_Gardens">
+		<loadout difficulty="1">Top_Right_Queen's_Gardens + CLAW</loadout>
+		<loadout difficulty="0">Top_Right_Queen's_Gardens + WINGS</loadout>
+		<loadout difficulty="0">Top_Right_Queen's_Gardens + DASH</loadout>
+	</location>
+	<location name="Rancid_Egg-Blue_Lake">
+		<loadout difficulty="1">Blue_Lake + WINGS</loadout>
+		<loadout difficulty="0">Blue_Lake + SUPERDASH</loadout>
+	</location>
+	<location name="Rancid_Egg-Crystal_Peak_Dive_Entrance">
+		<loadout difficulty="2">Crossroads + QUAKE + WINGS</loadout>
+		<loadout difficulty="1">Crossroads + QUAKE + DASH</loadout>
+		<loadout difficulty="0">Crystal_Peak + CLAW + WINGS</loadout>
+		<loadout difficulty="0">Crystal_Peak + CLAW + SUPERDASH</loadout>
+	</location>
+	<location name="Rancid_Egg-Crystal_Peak_Dark_Room">
+		<loadout difficulty="0">Crystal_Peak</loadout>
+	</location>
+	<location name="Rancid_Egg-Crystal_Peak_Tall_Room">
+		<loadout difficulty="2">Upper_Crystal_Peak + QUAKE</loadout>
+	</location>
+	<location name="Rancid_Egg-City_of_Tears_Left">
+		<loadout difficulty="0">Left_City + CLAW</loadout>
+		<loadout difficulty="0">Left_City + WINGS</loadout>
+		<loadout difficulty="2">Left_City + MILDSKIPS</loadout>
+	</location>
+	<location name="Rancid_Egg-City_of_Tears_Pleasure_House">
+		<loadout difficulty="0">Pleasure_House</loadout>
+	</location>
+	<location name="Rancid_Egg-Beast's_Den">
+		<loadout difficulty="1">Beast's_Den + CLAW</loadout>
+		<loadout difficulty="3">Beast's_Den + WINGS + SPICYSKIPS + SHADESKIPS</loadout>
+	</location>
+	<location name="Rancid_Egg-Dark_Deepnest">
+		<loadout difficulty="1">Dark_Deepnest + CLAW</loadout>
+		<loadout difficulty="2">Dark_Deepnest + WINGS + MILDSKIPS</loadout>
+	</location>
+	<location name="Rancid_Egg-Weaver's_Den">
+		<loadout difficulty="3">Weaver's_Den + SPIKETUNNELS</loadout>
+		<loadout difficulty="2">Weaver's_Den + SPIKETUNNELS + FIREBALL</loadout>
+		<loadout difficulty="2">Weaver's_Den + SPIKETUNNELS + QUAKE</loadout>
+		<loadout difficulty="1">Weaver's_Den + DASH</loadout>
+	</location>
+	<location name="Rancid_Egg-Near_Quick_Slash">
+		<loadout difficulty="1">Oro_Bench + QUAKE + CLAW</loadout>
+		<loadout difficulty="1">Oro_Bench + QUAKE + WINGS</loadout>
+	</location>
+	<location name="Rancid_Egg-Upper_Kingdom's_Edge">
+		<loadout difficulty="1">Upper_Kingdom's_Edge + CLAW</loadout>
+		<loadout difficulty="1">Upper_Kingdom's_Edge + WINGS</loadout>
+	</location>
+	<location name="Rancid_Egg-Waterways_East">
+		<loadout difficulty="0">Right_Waterways</loadout>
+	</location>
+	<location name="Rancid_Egg-Waterways_Main">
+		<loadout difficulty="0">Upper_Left_Waterways</loadout>
+		<loadout difficulty="0">Central_Left_Waterways + CLAW</loadout>
+		<loadout difficulty="0">Central_Left_Waterways + WINGS</loadout>
+		<loadout difficulty="8">Central_Left_Waterways + SPICYSKIPS</loadout>
+	</location>
+	<location name="Rancid_Egg-Waterways_West_Bluggsac">
+		<loadout difficulty="0">Upper_Left_Waterways</loadout>
+		<loadout difficulty="0">Far_Left_Waterways</loadout>
+	</location>
+	<location name="Rancid_Egg-Waterways_West_Pickup">
+		<loadout difficulty="1">Upper_Left_Waterways + CLAW</loadout>
+		<loadout difficulty="3">Upper_Left_Waterways + WINGS + SPICYSKIPS</loadout>
+		<loadout difficulty="1">Far_Left_Waterways + CLAW</loadout>
+		<loadout difficulty="3">Far_Left_Waterways + WINGS + SPICYSKIPS</loadout>
+	</location>
+	<location name="Wanderer's_Journal-Cliffs">
+		<loadout difficulty="0">Howling_Cliffs</loadout>
+	</location>
+	<location name="Wanderer's_Journal-Greenpath_Stag">
+		<loadout difficulty="0">Greenpath</loadout>
+	</location>
+	<location name="Wanderer's_Journal-Greenpath_Lower">
+		<loadout difficulty="0">Greenpath + CLAW</loadout>
+	</location>
+	<location name="Wanderer's_Journal-Fungal_Wastes_Thorns_Gauntlet">
+		<loadout difficulty="1">Fungal_Wastes + CLAW + WINGS</loadout>
+		<loadout difficulty="0">Fungal_Wastes + CLAW + DASH</loadout>
+		<loadout difficulty="0">Fungal_Wastes + CLAW + SUPERDASH</loadout>
+		<loadout difficulty="6">Fungal_Wastes + CLAW + AIRSTALL</loadout>
+	</location>
+	<location name="Wanderer's_Journal-Above_Mantis_Village">
+		<loadout difficulty="0">Fungal_Wastes + CLAW</loadout>
+		<loadout difficulty="1">Fungal_Wastes + WINGS + SHADESKIPS</loadout>
+	</location>
+	<location name="Wanderer's_Journal-Crystal_Peak_Crawlers">
+		<loadout difficulty="0">Upper_Crystal_Peak + CLAW</loadout>
+		<loadout difficulty="0">Upper_Crystal_Peak + WINGS</loadout>
+		<loadout difficulty="1">Upper_Crystal_Peak + MILDSKIPS</loadout>
+	</location>
+	<location name="Wanderer's_Journal-Resting_Grounds_Catacombs">
+		<loadout difficulty="1">Upper_Resting_Grounds + QUAKE + CLAW</loadout>
+		<loadout difficulty="0">Upper_Resting_Grounds + QUAKE + CLAW + DASH</loadout>
+		<loadout difficulty="1">Upper_Resting_Grounds + QUAKE + WINGS</loadout>
+		<loadout difficulty="0">Upper_Resting_Grounds + QUAKE + WINGS + DASH</loadout>
+	</location>
+	<location name="Wanderer's_Journal-King's_Station">
+		<loadout difficulty="2">Upper_King's_Station</loadout>
+		<loadout difficulty="1">Upper_King's_Station + MINIBOSS</loadout>
+	</location>
+	<location name="Wanderer's_Journal-Pleasure_House">
+		<loadout difficulty="0">Pleasure_House</loadout>
+	</location>
+	<location name="Wanderer's_Journal-City_Storerooms">
+		<loadout difficulty="0">Left_Elevator</loadout>
+	</location>
+	<location name="Wanderer's_Journal-Ancient_Basin">
+		<loadout difficulty="1">Upper_Basin + DASH</loadout>
+		<loadout difficulty="3">Upper_Basin + SPIKETUNNELS</loadout>
+	</location>
+	<location name="Wanderer's_Journal-Kingdom's_Edge_Entrance">
+		<loadout difficulty="0">Central_Kingdom's_Edge + CLAW</loadout>
+	</location>
+	<location name="Wanderer's_Journal-Kingdom's_Edge_Camp">
+		<loadout difficulty="0">Center_Right_Kingdom's_Edge + WINGS</loadout>
+		<loadout difficulty="3">Center_Right_Kingdom's_Edge + CLAW + SPICYSKIPS</loadout>
+		<loadout difficulty="2">Center_Right_Kingdom's_Edge + CLAW + DASH + SPICYSKIPS</loadout>
+		<loadout difficulty="3">Center_Right_Kingdom's_Edge + CLAW + Cast_Off_Shell</loadout>
+	</location>
+	<location name="Wanderer's_Journal-Kingdom's_Edge_Requires_Dive">
+		<loadout difficulty="0">Center_Right_Kingdom's_Edge + QUAKE</loadout>
+	</location>
+	<location name="Hallownest_Seal-Crossroads_Well">
+		<loadout difficulty="0">Crossroads + CLAW</loadout>
+		<loadout difficulty="3">Crossroads + WINGS + SHADESKIPS</loadout>
+		<loadout difficulty="0">Crossroads + WINGS + INFECTED</loadout>
+		<loadout difficulty="1">Crossroads + INFECTED + DASH + AIRSTALL</loadout>
+	</location>
+	<location name="Hallownest_Seal-Grubs">
+		<loadout difficulty="0">Crossroads + GRUBCOUNT</loadout>
+	</location>
+	<location name="Hallownest_Seal-Greenpath">
+		<loadout difficulty="0">Greenpath + ACID</loadout>
+		<loadout difficulty="3">Greenpath + WINGS + AIRSTALL</loadout>
+		<loadout difficulty="1">Greenpath + DASH + AIRSTALL</loadout>
+		<loadout difficulty="0">Greenpath + DASH + Dashmaster</loadout>
+		<loadout difficulty="0">Greenpath + DASH + WINGS</loadout>
+		<loadout difficulty="2">Greenpath + DASH + CLAW</loadout>
+		<loadout difficulty="0">Greenpath + SUPERDASH</loadout>
+	</location>
+	<location name="Hallownest_Seal-Fog_Canyon_West">
+		<loadout difficulty="0">Left_Fog_Canyon</loadout>
+	</location>
+	<location name="Hallownest_Seal-Fog_Canyon_East">
+		<loadout difficulty="0">Right_Fog_Canyon + CLAW</loadout>
+		<loadout difficulty="0">Right_Fog_Canyon + WINGS</loadout>
+		<loadout difficulty="1">Right_Fog_Canyon + DASH + MILDSKIPS</loadout>
+		<loadout difficulty="0">Crossroads + ACID + DASH</loadout>
+		<loadout difficulty="0">Crossroads + ACID + SUPERDASH</loadout>
+		<loadout difficulty="3">Crossroads + ACID + SPICYSKIPS</loadout>
+		<loadout difficulty="0">Crossroads + SKIPACID + DASH</loadout>
+		<loadout difficulty="0">Crossroads + SKIPACID + SUPERDASH</loadout>
+		<loadout difficulty="3">Crossroads + SKIPACID + SPICYSKIPS</loadout>
+		<loadout difficulty="2">Crossroads + WINGS + DASH + ACIDSKIPS</loadout>
+		<loadout difficulty="2">Crossroads + WINGS + DASH + ACIDSKIPS + SUPERDASH</loadout>
+		<loadout difficulty="4">Crossroads + WINGS + DASH + ACIDSKIPS + SPICYSKIPS</loadout>
+	</location>
+	<location name="Hallownest_Seal-Queen's_Station">
+		<loadout difficulty="0">Queen's_Station + WINGS</loadout>
+	</location>
+	<location name="Hallownest_Seal-Fungal_Wastes_Sporgs">
+		<loadout difficulty="2">Fungal_Wastes</loadout>
+		<loadout difficulty="0">Fungal_Wastes + DASH</loadout>
+	</location>
+	<location name="Hallownest_Seal-Mantis_Lords">
+		<loadout difficulty="2">Mantis_Village + CLAW</loadout>
+		<loadout difficulty="2">Mantis_Village + WINGS + MILDSKIPS</loadout>
+	</location>
+	<location name="Hallownest_Seal-Seer">
+		<loadout difficulty="0">Upper_Resting_Grounds + ESSENCECOUNT</loadout>
+	</location>
+	<location name="Hallownest_Seal-Resting_Grounds_Catacombs">
+		<loadout difficulty="1">Upper_Resting_Grounds + QUAKE</loadout>
+	</location>
+	<location name="Hallownest_Seal-King's_Station">
+		<loadout difficulty="0">Upper_King's_Station + CLAW</loadout>
+		<loadout difficulty="0">Upper_King's_Station + WINGS</loadout>
+	</location>
+	<location name="Hallownest_Seal-City_Rafters">
+		<loadout difficulty="0">Left_City</loadout>
+	</location>
+	<location name="Hallownest_Seal-Soul_Sanctum">
+		<loadout difficulty="1">Soul_Sanctum + CLAW + QUAKE</loadout>
+	</location>
+	<location name="Hallownest_Seal-Watcher_Knight">
+		<loadout difficulty="4">Right_City + CLAW + WINGS + BOSS</loadout>
+		<loadout difficulty="4">Right_City + CLAW + MILDSKIPS + BOSS</loadout>
+	</location>
+	<location name="Hallownest_Seal-Deepnest_By_Mantis_Lords">
+		<loadout difficulty="1">Far_Right_Deepnest + CLAW</loadout>
+	</location>
+	<location name="Hallownest_Seal-Beast's_Den">
+		<loadout difficulty="0">Beast's_Den</loadout>
+	</location>
+	<location name="Hallownest_Seal-Queen's_Gardens">
+		<loadout difficulty="2">Top_Left_Queen's_Gardens + CLAW</loadout>
+		<loadout difficulty="2">Top_Left_Queen's_Gardens + WINGS</loadout>
+		<loadout difficulty="6">Top_Left_Queen's_Gardens + DASH + SPICYSKIPS</loadout>
+	</location>
+	<location name="King's_Idol-Grubs">
+		<loadout difficulty="0">Crossroads + GRUBCOUNT</loadout>
+	</location>
+	<location name="King's_Idol-Cliffs">
+		<loadout difficulty="0">Howling_Cliffs</loadout>
+	</location>
+	<location name="King's_Idol-Crystal_Peak">
+		<loadout difficulty="1">Upper_Crystal_Peak + CLAW + DASH</loadout>
+		<loadout difficulty="0">Upper_Crystal_Peak + WINGS</loadout>
+	</location>
+	<location name="King's_Idol-Glade_of_Hope">
+		<loadout difficulty="1">Spirits_Glade + CLAW</loadout>
+		<loadout difficulty="0">Spirits_Glade + WINGS + DASH</loadout>
+	</location>
+	<location name="King's_Idol-Dung_Defender">
+		<loadout difficulty="2">Central_Left_Waterways + CLAW + QUAKE + BOSS</loadout>
+		<loadout difficulty="3">Central_Left_Waterways + WINGS + SPICYSKIPS + QUAKE + BOSS</loadout>
+	</location>
+	<location name="King's_Idol-Great_Hopper">
+		<loadout difficulty="1">Top_Kingdom's_Edge</loadout>
+	</location>
+	<location name="King's_Idol-Pale_Lurker">
+		<loadout difficulty="0">Pale_Lurker_Area</loadout>
+	</location>
+	<location name="King's_Idol-Deepnest">
+		<loadout difficulty="2">Failed_Tramway</loadout>
+		<loadout difficulty="1">Failed_Tramway + MINIBOSS</loadout>
+	</location>
+	<location name="Arcane_Egg-Seer">
+		<loadout difficulty="0">Upper_Resting_Grounds + ESSENCECOUNT</loadout>
+	</location>
+	<location name="Arcane_Egg-Lifeblood_Core">
+		<loadout difficulty="1">Abyss + LIFEBLOOD + SUPERDASH + CLAW</loadout>
+		<loadout difficulty="1">Abyss + LIFEBLOOD + SUPERDASH + WINGS</loadout>
+	</location>
+	<location name="Arcane_Egg-Shade_Cloak">
+		<loadout difficulty="2">Abyss + CLAW + DASH + SHADOWDASH</loadout>
+		<loadout difficulty="0">Abyss + CLAW + DASH + VOIDHEART</loadout>
+		<loadout difficulty="2">Abyss + WINGS + SHADOWDASH</loadout>
+		<loadout difficulty="0">Abyss + WINGS + VOIDHEART</loadout>
+	</location>
+	<location name="Arcane_Egg-Birthplace">
+		<loadout difficulty="1">Abyss + KINGSOUL</loadout>
+	</location>
+	<location name="Whispering_Root-Crossroads">
+		<loadout difficulty="0">Crossroads + CLAW + DREAMNAIL</loadout>
+	</location>
+	<location name="Whispering_Root-Greenpath">
+		<loadout difficulty="1">Far_Queen's_Gardens + Greenpath + CLAW + DREAMNAIL</loadout>
+	</location>
+	<location name="Whispering_Root-Leg_Eater">
+		<loadout difficulty="1">Right_Fog_Canyon + DREAMNAIL</loadout>
+	</location>
+	<location name="Whispering_Root-Mantis_Village">
+		<loadout difficulty="0">Fungal_Wastes + CLAW + DREAMNAIL</loadout>
+	</location>
+	<location name="Whispering_Root-Deepnest">
+		<loadout difficulty="1">Dark_Deepnest + LANTERN + CLAW + DREAMNAIL</loadout>
+		<loadout difficulty="2">Dark_Deepnest + LANTERN + WINGS + MILDSKIPS + DREAMNAIL</loadout>
+		<loadout difficulty="7">Dark_Deepnest + DARKROOMS + CLAW + DREAMNAIL</loadout>
+		<loadout difficulty="8">Dark_Deepnest + DARKROOMS + WINGS + MILDSKIPS + DREAMNAIL</loadout>
+	</location>
+	<location name="Whispering_Root-Queens_Gardens">
+		<loadout difficulty="1">Bottom_Right_Queen's_Gardens + CLAW + DREAMNAIL</loadout>
+	</location>
+	<location name="Whispering_Root-Kingdoms_Edge">
+		<loadout difficulty="2">Upper_Kingdom's_Edge + CLAW + DREAMNAIL</loadout>
+		<loadout difficulty="3">Upper_Kingdom's_Edge + WINGS + DREAMNAIL</loadout>
+	</location>
+	<location name="Whispering_Root-Waterways">
+		<loadout difficulty="2">Waterways_Shaft + CLAW + DREAMNAIL</loadout>
+	</location>
+	<location name="Whispering_Root-City">
+		<loadout difficulty="3">Left_Elevator + DREAMNAIL</loadout>
+	</location>
+	<location name="Whispering_Root-Resting_Grounds">
+		<loadout difficulty="0">Upper_Resting_Grounds + DREAMNAIL</loadout>
+	</location>
+	<location name="Whispering_Root-Spirits_Glade">
+		<loadout difficulty="0">Spirits_Glade + CLAW + DASH + DREAMNAIL</loadout>
+		<loadout difficulty="0">Spirits_Glade + CLAW + WINGS + DREAMNAIL</loadout>
+		<loadout difficulty="1">Spirits_Glade + CLAW + AIRSTALL + DREAMNAIL</loadout>
+	</location>
+	<location name="Whispering_Root-Crystal_Peak">
+		<loadout difficulty="1">Upper_Crystal_Peak + CLAW + DASH + DREAMNAIL</loadout>
+		<loadout difficulty="1">Upper_Crystal_Peak + CLAW + WINGS + DREAMNAIL</loadout>
+		<loadout difficulty="1">Upper_Crystal_Peak + WINGS + DASH + DREAMNAIL</loadout>
+		<loadout difficulty="1">Upper_Crystal_Peak + WINGS + WINGS + DREAMNAIL</loadout>
+	</location>
+	<location name="Whispering_Root-Howling_Cliffs">
+		<loadout difficulty="2">Howling_Cliffs + CLAW + DREAMNAIL</loadout>
+		<loadout difficulty="1">Howling_Cliffs + WINGS + DREAMNAIL</loadout>
+		<loadout difficulty="5">Howling_Cliffs + DASH + DREAMNAIL</loadout>
+	</location>
+	<location name="Whispering_Root-Ancestral_Mound">
+		<loadout difficulty="1">Ancestral_Mound + WINGS + CLAW + DREAMNAIL</loadout>
+		<loadout difficulty="1">Ancestral_Mound + WINGS + BALDURS + DREAMNAIL</loadout>
+		<loadout difficulty="4">Ancestral_Mound + CLAW + SPICYSKIPS + DREAMNAIL</loadout>
+	</location>
+	<location name="Whispering_Root-Hive">
+		<loadout difficulty="3">Hive + CLAW + WINGS + DREAMNAIL</loadout>
+		<loadout difficulty="1">Hive + CLAW + WINGS + DREAMNAIL + Hiveblood</loadout>
+		<loadout difficulty="8">Hive + MILDSKIPS + CLAW + DREAMNAIL</loadout>
+		<loadout difficulty="7">Hive + MILDSKIPS + WINGS + DREAMNAIL</loadout>
+	</location>
+	<location name="Elder_Hu">
+		<loadout difficulty="3">Fungal_Wastes + DREAMNAIL + AERIALMINIBOSS</loadout>
+	</location>
+	<location name="Xero">
+		<loadout difficulty="1">Upper_Resting_Grounds + DREAMNAIL + AERIALMINIBOSS</loadout>
+	</location>
+	<location name="Gorb">
+		<loadout difficulty="1">Howling_Cliffs + DREAMNAIL + AERIALMINIBOSS</loadout>
+	</location>
+	<location name="Marmu">
+		<loadout difficulty="3">Top_Left_Queen's_Gardens + DREAMNAIL + AERIALMINIBOSS</loadout>
+	</location>
+	<location name="No_Eyes">
+		<loadout difficulty="4">Stone_Sanctuary + LANTERN + DREAMNAIL + AERIALMINIBOSS</loadout>
+	</location>
+	<location name="Galien">
+		<loadout difficulty="3">Failed_Tramway + LANTERN + DREAMNAIL + AERIALMINIBOSS</loadout>
+		<loadout difficulty="5">Failed_Tramway + DARKROOMS + DREAMNAIL + AERIALMINIBOSS</loadout>
+		<loadout difficulty="8">Dark_Deepnest + CLAW + DREAMNAIL + AERIALMINIBOSS</loadout>
+	</location>
+	<location name="Markoth">
+		<loadout difficulty="4">Upper_Kingdom's_Edge + SHADOWDASH + DREAMNAIL + AERIALMINIBOSS</loadout>
+	</location>
+	<location name="Failed_Champion">
+		<loadout difficulty="6">Crossroads + CLAW + DREAMNAIL + BOSS</loadout>
+	</location>
+	<location name="Soul_Tyrant">
+		<loadout difficulty="3">Soul_Sanctum + CLAW + DREAMNAIL + BOSS</loadout>
+		<loadout difficulty="3">Soul_Sanctum + WINGS + DREAMNAIL + BOSS</loadout>
+	</location>
+	<location name="Lost_Kin">
+		<loadout difficulty="3">Far_Left_Basin + CLAW + DREAMNAIL + BOSS</loadout>
+		<loadout difficulty="4">Far_Left_Basin + WINGS + MILDSKIPS + DREAMNAIL + BOSS</loadout>
+	</location>
+	<location name="Grub-Crossroads_Acid">
+		<loadout difficulty="1">Crossroads</loadout>
+	</location>
+	<location name="Grub-Crossroads_Center">
+		<loadout difficulty="1">Crossroads + MILDSKIPS</loadout>
+		<loadout difficulty="0">Crossroads + DASH</loadout>
+		<loadout difficulty="0">Crossroads + WINGS</loadout>
+		<loadout difficulty="0">Crossroads + SUPERDASH</loadout>
+	</location>
+	<location name="Grub-Crossroads_Stag">
+		<loadout difficulty="0">Crossroads</loadout>
+	</location>
+	<location name="Grub-Crossroads_Spike">
+		<loadout difficulty="0">Crossroads</loadout>
+	</location>
+	<location name="Grub-Crossroads_Guarded">
+		<loadout difficulty="1">Crossroads</loadout>
+	</location>
+	<location name="Grub-Greenpath_Cornifer">
+		<loadout difficulty="0">Greenpath</loadout>
+	</location>
+	<location name="Grub-Greenpath_Journal">
+		<loadout difficulty="0">Greenpath</loadout>
+	</location>
+	<location name="Grub-Greenpath_MMC">
+		<loadout difficulty="0">Greenpath + DASH</loadout>
+		<loadout difficulty="0">Greenpath + CLAW</loadout>
+		<loadout difficulty="0">Greenpath + WINGS</loadout>
+		<loadout difficulty="0">Greenpath + SUPERDASH</loadout>
+		<loadout difficulty="2">Greenpath + AIRSTALL</loadout>
+		<loadout difficulty="2">Greenpath + SHADESKIPS</loadout>
+	</location>
+	<location name="Grub-Greenpath_Stag">
+		<loadout difficulty="1">Greenpath</loadout>
+	</location>
+	<location name="Grub-Fog_Canyon">
+		<loadout difficulty="0">SUPERDASH + Right_Fog_Canyon</loadout>
+	</location>
+	<location name="Grub-Fungal_Bouncy">
+		<loadout difficulty="0">Fungal_Wastes</loadout>
+	</location>
+	<location name="Grub-Fungal_Spore_Shroom">
+		<loadout difficulty="1">Bottom_Left_Fungal_Wastes + CLAW</loadout>
+		<loadout difficulty="0">Bottom_Left_Fungal_Wastes + WINGS</loadout>
+		<loadout difficulty="0">Bottom_Left_Fungal_Wastes + SUPERDASH</loadout>
+		<loadout difficulty="0">Bottom_Left_Fungal_Wastes + DASH</loadout>
+	</location>
+	<location name="Grub-Deepnest_Mimic">
+		<loadout difficulty="1">Bottom_Left_Fungal_Wastes</loadout>
+		<loadout difficulty="1">Upper_Deepnest + WINGS</loadout>
+		<loadout difficulty="1">Upper_Deepnest + CLAW + DASH</loadout>
+		<loadout difficulty="1">Upper_Deepnest + CLAW + SUPERDASH</loadout>
+	</location>
+	<location name="Grub-Deepnest_Nosk">
+		<loadout difficulty="0">Deepnest + SUPERDASH</loadout>
+		<loadout difficulty="0">Deepnest + WINGS</loadout>
+		<loadout difficulty="3">Deepnest + CLAW + SHADESKIPS</loadout>
+	</location>
+	<location name="Grub-Deepnest_Spike">
+		<loadout difficulty="2">Deepnest + CLAW</loadout>
+		<loadout difficulty="0">Deepnest + WINGS</loadout>
+	</location>
+	<location name="Grub-Dark_Deepnest">
+		<loadout difficulty="3">Dark_Deepnest + CLAW</loadout>
+		<loadout difficulty="1">Dark_Deepnest + CLAW + LANTERN</loadout>
+		<loadout difficulty="5">Dark_Deepnest + WINGS</loadout>
+		<loadout difficulty="2">Dark_Deepnest + WINGS + LANTERN</loadout>
+	</location>
+	<location name="Grub-Beast's_Den">
+		<loadout difficulty="0">Beast's_Den + CLAW</loadout>
+	</location>
+	<location name="Grub-Kingdom's_Edge_Oro">
+		<loadout difficulty="1">Oro_Bench + CLAW + QUAKE + MILDSKIPS</loadout>
+		<loadout difficulty="0">Oro_Bench + CLAW + QUAKE + DASH</loadout>
+		<loadout difficulty="1">Oro_Bench + WINGS + QUAKE + MILDSKIPS</loadout>
+		<loadout difficulty="0">Oro_Bench + WINGS + QUAKE + DASH</loadout>
+	</location>
+	<location name="Grub-Kingdom's_Edge_Camp">
+		<loadout difficulty="0">Center_Right_Kingdom's_Edge + CLAW</loadout>
+		<loadout difficulty="0">Center_Right_Kingdom's_Edge + WINGS</loadout>
+		<loadout difficulty="1">Center_Right_Kingdom's_Edge + MILDSKIPS + DASH</loadout>
+	</location>
+	<location name="Grub-Hive_External">
+		<loadout difficulty="0">Lower_Kingdom's_Edge + CLAW + QUAKE + ACID</loadout>
+		<loadout difficulty="4">Lower_Kingdom's_Edge + CLAW + QUAKE + SUPERDASH + ACIDSKIPS</loadout>
+		<loadout difficulty="0">Lower_Kingdom's_Edge + WINGS + QUAKE + ACID</loadout>
+		<loadout difficulty="4">Lower_Kingdom's_Edge + WINGS + QUAKE + CLAW + SUPERDASH + ACIDSKIPS</loadout>
+	</location>
+	<location name="Grub-Hive_Internal">
+		<loadout difficulty="2">Hive + CLAW + WINGS + SUPERDASH</loadout>
+		<loadout difficulty="9">Hive + CLAW + WINGS + SPICYSKIPS</loadout>
+	</location>
+	<location name="Grub-Basin_Requires_Wings">
+		<loadout difficulty="0">Far_Left_Basin + WINGS + CLAW</loadout>
+		<loadout difficulty="2">Far_Left_Basin + WINGS + AIRSTALL + SPICYSKIPS</loadout>
+	</location>
+	<location name="Grub-Basin_Requires_Dive">
+		<loadout difficulty="0">Mid_Basin + QUAKE</loadout>
+	</location>
+	<location name="Grub-Waterways_Main">
+		<loadout difficulty="0">Upper_Left_Waterways</loadout>
+		<loadout difficulty="0">Far_Left_Waterways</loadout>
+	</location>
+	<location name="Grub-Waterways_East">
+		<loadout difficulty="0">Isma's_Grove + CLAW + ACID</loadout>
+		<loadout difficulty="1">Isma's_Grove + CLAW + SKIPACID</loadout>
+	</location>
+	<location name="Grub-Waterways_Requires_Tram">
+		<loadout difficulty="1">Lower_Kingdom's_Edge + CLAW + SUPERDASH + WINGS</loadout>
+		<loadout difficulty="1">Lower_Kingdom's_Edge + CLAW + ACID</loadout>
+	</location>
+	<location name="Grub-City_of_Tears_Left">
+		<loadout difficulty="0">Left_City + CLAW + DASH</loadout>
+		<loadout difficulty="1">Left_City + CLAW + SUPERDASH</loadout>
+		<loadout difficulty="1">Left_City + CLAW + WINGS</loadout>
+		<loadout difficulty="2">Left_City + CLAW + MILDSKIPS</loadout>
+		<loadout difficulty="2">Left_City + WINGS + MILDSKIPS</loadout>
+		<loadout difficulty="2">Left_Elevator + CLAW</loadout>
+		<loadout difficulty="2">Left_Elevator + WINGS</loadout>
+		<loadout difficulty="3">Left_Elevator + MILDSKIPS</loadout>
+		<loadout difficulty="0">Soul_Sanctum + CLAW</loadout>
+		<loadout difficulty="0">Soul_Sanctum + WINGS</loadout>
+		<loadout difficulty="1">Soul_Sanctum + MILDSKIPS</loadout>
+	</location>
+	<location name="Grub-Soul_Sanctum">
+		<loadout difficulty="1">Soul_Sanctum + CLAW + QUAKE</loadout>
+	</location>
+	<location name="Grub-Watcher's_Spire">
+		<loadout difficulty="3">Right_City + CLAW + WINGS</loadout>
+		<loadout difficulty="3">Right_City + CLAW + MILDSKIPS</loadout>
+	</location>
+	<location name="Grub-City_of_Tears_Guarded">
+		<loadout difficulty="2">Right_City + CLAW</loadout>
+		<loadout difficulty="2">Right_City + WINGS</loadout>
+		<loadout difficulty="2">Right_City + DASH</loadout>
+		<loadout difficulty="2">Right_City + Upper_King's_Station</loadout>
+	</location>
+	<location name="Grub-King's_Station">
+		<loadout difficulty="0">Lower_King's_Station</loadout>
+	</location>
+	<location name="Grub-Resting_Grounds">
+		<loadout difficulty="1">Upper_Resting_Grounds + QUAKE + CLAW</loadout>
+		<loadout difficulty="1">Upper_Resting_Grounds + QUAKE + WINGS</loadout>
+	</location>
+	<location name="Grub-Crystal_Peak_Below_Chest">
+		<loadout difficulty="1">Upper_Crystal_Peak + DASH</loadout>
+		<loadout difficulty="4">Upper_Crystal_Peak + CLAW + SUPERDASH</loadout>
+		<loadout difficulty="2">Upper_Crystal_Peak + Dashmaster + Sprintmaster</loadout>
+	</location>
+	<location name="Grub-Crystallized_Mound">
+		<loadout difficulty="2">Crystallized_Mound + QUAKE + CLAW</loadout>
+		<loadout difficulty="2">Crystallized_Mound + QUAKE + WINGS</loadout>
+	</location>
+	<location name="Grub-Crystal_Peak_Spike">
+		<loadout difficulty="2">Crystal_Peak + CLAW + DASH</loadout>
+		<loadout difficulty="4">Crystal_Peak + WINGS + SPIKETUNNELS + DASH</loadout>
+		<loadout difficulty="6">Crystal_Peak + WINGS + SPIKETUNNELS + AIRSTALL</loadout>
+	</location>
+	<location name="Grub-Crystal_Peak_Mimic">
+		<loadout difficulty="0">Upper_Crystal_Peak + CLAW + SUPERDASH</loadout>
+		<loadout difficulty="1">King's_Pass + WINGS + SUPERDASH</loadout>
+	</location>
+	<location name="Grub-Crystal_Peak_Crushers">
+		<loadout difficulty="1">Upper_Crystal_Peak + DASH + CLAW</loadout>
+		<loadout difficulty="1">Upper_Crystal_Peak + DASH + WINGS</loadout>
+	</location>
+	<location name="Grub-Crystal_Heart">
+		<loadout difficulty="0">Upper_Crystal_Peak + CLAW + SUPERDASH</loadout>
+		<loadout difficulty="1">Upper_Crystal_Peak + WINGS</loadout>
+	</location>
+	<location name="Grub-Hallownest_Crown">
+		<loadout difficulty="2">Upper_Crystal_Peak + CLAW + DASH</loadout>
+		<loadout difficulty="2">Upper_Crystal_Peak + WINGS + DASH</loadout>
+		<loadout difficulty="2">Hallownest's_Crown + DASH</loadout>
+		<loadout difficulty="3">Hallownest's_Crown + SUPERDASH</loadout>
+		<loadout difficulty="9">Hallownest's_Crown + SPIKETUNNELS</loadout>
+	</location>
+	<location name="Grub-Howling_Cliffs">
+		<loadout difficulty="0">Howling_Cliffs</loadout>
+	</location>
+	<location name="Grub-Queen's_Gardens_Stag">
+		<loadout difficulty="1">Top_Left_Queen's_Gardens</loadout>
+		<loadout difficulty="0">Queen's_Gardens_Stag + Can_Stag</loadout>
+	</location>
+	<location name="Grub-Queen's_Gardens_Marmu">
+		<loadout difficulty="3">Top_Left_Queen's_Gardens + CLAW</loadout>
+	</location>
+	<location name="Grub-Queen's_Gardens_Top">
+		<loadout difficulty="1">Far_Queen's_Gardens + CLAW + DASH + SUPERDASH</loadout>
+	</location>
+	<location name="Grub-Collector_1">
+		<loadout difficulty="4">Tower_of_Love + LOVE + CLAW + BOSS</loadout>
+		<loadout difficulty="6">Tower_of_Love + LOVE + WINGS + SPICYSKIPS + BOSS</loadout>
+	</location>
+	<location name="Grub-Collector_2">
+		<loadout difficulty="4">Tower_of_Love + LOVE + CLAW + BOSS</loadout>
+		<loadout difficulty="6">Tower_of_Love + LOVE + WINGS + SPICYSKIPS + BOSS</loadout>
+	</location>
+	<location name="Grub-Collector_3">
+		<loadout difficulty="4">Tower_of_Love + LOVE + CLAW + BOSS</loadout>
+		<loadout difficulty="6">Tower_of_Love + LOVE + WINGS + SPICYSKIPS + BOSS</loadout>
+	</location>
+	<location name="Crossroads_Map">
+		<loadout difficulty="0">Crossroads</loadout>
+	</location>
+	<location name="Greenpath_Map">
+		<loadout difficulty="0">Greenpath</loadout>
+	</location>
+	<location name="Fog_Canyon_Map">
+		<loadout difficulty="1">Right_Fog_Canyon + CLAW + DASH</loadout>
+		<loadout difficulty="0">Right_Fog_Canyon + WINGS</loadout>
+	</location>
+	<location name="Fungal_Wastes_Map">
+		<loadout difficulty="0">Fungal_Wastes</loadout>
+	</location>
+	<location name="Deepnest_Map-Upper">
+		<loadout difficulty="0">Upper_Deepnest</loadout>
+	</location>
+	<location name="Deepnest_Map-Right_[Gives_Quill]">
+		<loadout difficulty="0">Far_Right_Deepnest + CLAW</loadout>
+	</location>
+	<location name="Ancient_Basin_Map">
+		<loadout difficulty="1">Mid_Basin</loadout>
+	</location>
+	<location name="Kingdom's_Edge_Map">
+		<loadout difficulty="0">Central_Kingdom's_Edge</loadout>
+	</location>
+	<location name="City_of_Tears_Map">
+		<loadout difficulty="0">Left_Elevator</loadout>
+	</location>
+	<location name="Royal_Waterways_Map">
+		<loadout difficulty="2">Far_Left_Waterways + CLAW</loadout>
+	</location>
+	<location name="Howling_Cliffs_Map">
+		<loadout difficulty="0">Howling_Cliffs</loadout>
+	</location>
+	<location name="Crystal_Peak_Map">
+		<loadout difficulty="0">Upper_Crystal_Peak</loadout>
+	</location>
+	<location name="Queen's_Gardens_Map">
+		<loadout difficulty="2">Bottom_Right_Queen's_Gardens + CLAW</loadout>
+		<loadout difficulty="2">Bottom_Right_Queen's_Gardens + WINGS</loadout>
+	</location>
+	<location name="Resting_Grounds_Map">
+		<loadout difficulty="0">Upper_Resting_Grounds</loadout>
+	</location>
+	<location name="Dirtmouth_Stag">
+		<loadout difficulty="0">Can_Stag</loadout>
+	</location>
+	<location name="Crossroads_Stag">
+		<loadout difficulty="0">Crossroads</loadout>
+	</location>
+	<location name="Greenpath_Stag">
+		<loadout difficulty="0">Greenpath</loadout>
+	</location>
+	<location name="Queen's_Station_Stag">
+		<loadout difficulty="0">Queen's_Station</loadout>
+	</location>
+	<location name="Queen's_Gardens_Stag">
+		<loadout difficulty="0">Top_Left_Queen's_Gardens</loadout>
+		<loadout difficulty="0">Queen's_Gardens_Stag + Can_Stag</loadout>
+	</location>
+	<location name="City_Storerooms_Stag">
+		<loadout difficulty="0">Left_Elevator</loadout>
+	</location>
+	<location name="King's_Station_Stag">
+		<loadout difficulty="1">Upper_King's_Station</loadout>
+		<loadout difficulty="0">King's_Station_Stag + Can_Stag</loadout>
+	</location>
+	<location name="Resting_Grounds_Stag">
+		<loadout difficulty="0">Upper_Resting_Grounds</loadout>
+	</location>
+	<location name="Distant_Village_Stag">
+		<loadout difficulty="0">Distant_Village + CLAW</loadout>
+		<loadout difficulty="0">Distant_Village + WINGS</loadout>
+		<loadout difficulty="0">Distant_Village_Stag + Can_Stag</loadout>
+	</location>
+	<location name="Hidden_Station_Stag">
+		<loadout difficulty="0">Palace_Grounds</loadout>
+	</location>
+	<location name="Stag_Nest_Stag">
+		<loadout difficulty="0">Stag_Nest</loadout>
+	</location>
+	<location name="Lifeblood_Cocoon-King's_Pass">
+		<loadout difficulty="0">King's_Pass</loadout>
+	</location>
+	<location name="Lifeblood_Cocoon-Ancestral_Mound">
+		<loadout difficulty="0">Ancestral_Mound</loadout>
+	</location>
+	<location name="Lifeblood_Cocoon-Greenpath">
+		<loadout difficulty="0">Greenpath</loadout>
+	</location>
+	<location name="Lifeblood_Cocoon-Fog_Canyon_West">
+		<loadout difficulty="0">Left_Fog_Canyon</loadout>
+	</location>
+	<location name="Lifeblood_Cocoon-Mantis_Village">
+		<loadout difficulty="0">Mantis_Village + CLAW + WINGS</loadout>
+		<loadout difficulty="0">Mantis_Village + CLAW + SUPERDASH</loadout>
+	</location>
+	<location name="Lifeblood_Cocoon-Failed_Tramway">
+		<loadout difficulty="0">Failed_Tramway + CLAW</loadout>
+		<loadout difficulty="2">Failed_Tramway + WINGS + SHADESKIPS</loadout>
+	</location>
+	<location name="Lifeblood_Cocoon-Galien">
+		<loadout difficulty="0">Dark_Deepnest + CLAW</loadout>
+	</location>
+	<location name="Lifeblood_Cocoon-Kingdom's_Edge">
+		<loadout difficulty="0">Upper_Kingdom's_Edge + WINGS</loadout>
+		<loadout difficulty="5">Upper_Kingdom's_Edge + CLAW + MILDSKIPS</loadout>
+	</location>
+	<location name="Grubfather">
+		<loadout difficulty="0">Crossroads</loadout>
+	</location>
+	<location name="Seer">
+		<loadout difficulty="0">Upper_Resting_Grounds</loadout>
+	</location>
+	<location name="Equipped">
+		<loadout difficulty="0"></loadout>
+	</location>
+	<location name="Placeholder">
+		<loadout difficulty="0"></loadout>
+	</location>
+	<location name="Geo_Rock-Broken_Elevator_1">
+		<loadout difficulty="0">Right_City</loadout>
+		<loadout difficulty="1">Upper_Basin + CLAW</loadout>
+		<loadout difficulty="1">Central_Left_Waterways + CLAW + SUPERDASH</loadout>
+		<loadout difficulty="3">Central_Left_Waterways + CLAW + ACID + TUNNEL</loadout>
+		<loadout difficulty="2">Central_Left_Waterways + WINGS + SUPERDASH</loadout>
+		<loadout difficulty="3">Central_Left_Waterways + WINGS + ACID + TUNNEL</loadout>
+		<loadout difficulty="2">Right_Waterways + CLAW + SUPERDASH</loadout>
+		<loadout difficulty="3">Right_Waterways + CLAW + TUNNEL + ACID + WINGS</loadout>
+	</location>
+	<location name="Geo_Rock-Broken_Elevator_2">
+		<loadout difficulty="0">Right_City + DASH</loadout>
+		<loadout difficulty="3">Right_City + SPIKETUNNELS</loadout>
+		<loadout difficulty="1">Upper_Basin + CLAW + DASH</loadout>
+		<loadout difficulty="3">Upper_Basin + CLAW + SPIKETUNNELS</loadout>
+		<loadout difficulty="1">Central_Left_Waterways + CLAW + SUPERDASH + DASH</loadout>
+		<loadout difficulty="0">Central_Left_Waterways + CLAW + SUPERDASH + SPIKETUNNELS</loadout>
+		<loadout difficulty="3">Central_Left_Waterways + CLAW + ACID + TUNNEL + DASH</loadout>
+		<loadout difficulty="3">Central_Left_Waterways + CLAW + ACID + TUNNEL + SPIKETUNNELS</loadout>
+		<loadout difficulty="2">Central_Left_Waterways + WINGS + SUPERDASH + DASH</loadout>
+		<loadout difficulty="3">Central_Left_Waterways + WINGS + SUPERDASH + SPIKETUNNELS</loadout>
+		<loadout difficulty="3">Central_Left_Waterways + WINGS + ACID + TUNNEL + DASH</loadout>
+		<loadout difficulty="3">Central_Left_Waterways + WINGS + ACID + TUNNEL + SPIKETUNNELS</loadout>
+		<loadout difficulty="0">Right_Waterways + CLAW + SUPERDASH + DASH</loadout>
+		<loadout difficulty="3">Right_Waterways + CLAW + SUPERDASH + SPIKETUNNELS</loadout>
+		<loadout difficulty="0">Right_Waterways + CLAW + TUNNEL + ACID + WINGS + DASH</loadout>
+		<loadout difficulty="3">Right_Waterways + CLAW + TUNNEL + ACID + WINGS + SPIKETUNNELS</loadout>
+	</location>
+	<location name="Geo_Rock-Broken_Elevator_3">
+		<loadout difficulty="0">Right_City</loadout>
+		<loadout difficulty="1">Upper_Basin + CLAW</loadout>
+		<loadout difficulty="1">Central_Left_Waterways + CLAW + SUPERDASH</loadout>
+		<loadout difficulty="3">Central_Left_Waterways + CLAW + ACID + TUNNEL</loadout>
+		<loadout difficulty="2">Central_Left_Waterways + WINGS + SUPERDASH</loadout>
+		<loadout difficulty="3">Central_Left_Waterways + WINGS + ACID + TUNNEL</loadout>
+		<loadout difficulty="1">Right_Waterways + CLAW + SUPERDASH</loadout>
+		<loadout difficulty="3">Right_Waterways + CLAW + TUNNEL + ACID + WINGS</loadout>
+	</location>
+	<location name="Geo_Rock-Broken_Bridge_Upper">
+		<loadout difficulty="1">Upper_Basin + CLAW</loadout>
+		<loadout difficulty="1">Upper_Basin + WINGS</loadout>
+		<loadout difficulty="2">Upper_Basin + MILDSKIPS</loadout>
+	</location>
+	<location name="Geo_Rock-Broken_Bridge_Lower">
+		<loadout difficulty="1">Upper_Basin</loadout>
+	</location>
+	<location name="Geo_Rock-Broken_Bridge_Lower_Dupe">
+		<loadout difficulty="1">Upper_Basin</loadout>
+	</location>
+	<location name="Geo_Rock-Abyss_1">
+		<loadout difficulty="0">Abyss + DASH</loadout>
+		<loadout difficulty="0">Abyss + CLAW</loadout>
+		<loadout difficulty="0">Abyss + WINGS</loadout>
+		<loadout difficulty="0">Abyss + SUPERDASH</loadout>
+	</location>
+	<location name="Geo_Rock-Abyss_2">
+		<loadout difficulty="0">Abyss + DASH</loadout>
+		<loadout difficulty="0">Abyss + CLAW</loadout>
+		<loadout difficulty="0">Abyss + WINGS</loadout>
+	</location>
+	<location name="Geo_Rock-Abyss_3">
+		<loadout difficulty="0">Abyss</loadout>
+	</location>
+	<location name="Geo_Rock-Basin_Tunnel">
+		<loadout difficulty="1">Lower_Basin + CLAW</loadout>
+		<loadout difficulty="1">Lower_Basin + WINGS</loadout>
+		<loadout difficulty="0">Lower_Basin + SUPERDASH</loadout>
+	</location>
+	<location name="Geo_Rock-Basin_Grub">
+		<loadout difficulty="0">Far_Left_Basin + WINGS</loadout>
+	</location>
+	<location name="Geo_Rock-Basin_Before_Broken_Vessel">
+		<loadout difficulty="0">Far_Left_Basin</loadout>
+	</location>
+	<location name="Geo_Rock-Cliffs_Main_1">
+		<loadout difficulty="0">Howling_Cliffs</loadout>
+	</location>
+	<location name="Geo_Rock-Cliffs_Main_2">
+		<loadout difficulty="0">Howling_Cliffs</loadout>
+	</location>
+	<location name="Geo_Rock-Cliffs_Main_3">
+		<loadout difficulty="0">Howling_Cliffs + DASH</loadout>
+		<loadout difficulty="0">Howling_Cliffs + CLAW</loadout>
+		<loadout difficulty="0">Howling_Cliffs + WINGS</loadout>
+		<loadout difficulty="0">Howling_Cliffs + SUPERDASH</loadout>
+		<loadout difficulty="1">Howling_Cliffs + MILDSKIPS</loadout>
+		<loadout difficulty="2">Howling_Cliffs + AIRSTALL</loadout>
+	</location>
+	<location name="Geo_Rock-Cliffs_Main_4">
+		<loadout difficulty="0">Howling_Cliffs</loadout>
+	</location>
+	<location name="Geo_Rock-Below_Gorb_Dupe">
+		<loadout difficulty="0">Howling_Cliffs</loadout>
+	</location>
+	<location name="Geo_Rock-Below_Gorb">
+		<loadout difficulty="0">Howling_Cliffs</loadout>
+	</location>
+	<location name="Geo_Rock-Crossroads_Well">
+		<loadout difficulty="0">Crossroads</loadout>
+	</location>
+	<location name="Geo_Rock-Crossroads_Center_Grub">
+		<loadout difficulty="0">Crossroads</loadout>
+	</location>
+	<location name="Geo_Rock-Crossroads_Root">
+		<loadout difficulty="0">Crossroads + CLAW</loadout>
+	</location>
+	<location name="Geo_Rock-Crossroads_Root_Dupe_1">
+		<loadout difficulty="0">Crossroads + CLAW</loadout>
+	</location>
+	<location name="Geo_Rock-Crossroads_Root_Dupe_2">
+		<loadout difficulty="0">Crossroads + CLAW</loadout>
+	</location>
+	<location name="Geo_Rock-Crossroads_Aspid_Arena">
+		<loadout difficulty="0">Crossroads</loadout>
+	</location>
+	<location name="Geo_Rock-Crossroads_Aspid_Arena_Dupe_1">
+		<loadout difficulty="0">Crossroads</loadout>
+	</location>
+	<location name="Geo_Rock-Crossroads_Aspid_Arena_Dupe_2">
+		<loadout difficulty="0">Crossroads</loadout>
+	</location>
+	<location name="Geo_Rock-Crossroads_Aspid_Arena_Hidden">
+		<loadout difficulty="0">Crossroads</loadout>
+	</location>
+	<location name="Geo_Rock-Crossroads_Above_False_Knight">
+		<loadout difficulty="0">Crossroads + CLAW</loadout>
+		<loadout difficulty="1">Crossroads + WINGS + INFECTED</loadout>
+	</location>
+	<location name="Geo_Rock-Crossroads_Before_Acid_Grub">
+		<loadout difficulty="0">Crossroads</loadout>
+	</location>
+	<location name="Geo_Rock-Crossroads_Below_Goam_Mask_Shard">
+		<loadout difficulty="0">Crossroads</loadout>
+	</location>
+	<location name="Geo_Rock-Crossroads_After_Goam_Mask_Shard">
+		<loadout difficulty="0">Crossroads</loadout>
+	</location>
+	<location name="Geo_Rock-Crossroads_Above_Lever">
+		<loadout difficulty="0">Crossroads</loadout>
+	</location>
+	<location name="Geo_Rock-Crossroads_Before_Fungal">
+		<loadout difficulty="0">Crossroads</loadout>
+	</location>
+	<location name="Geo_Rock-Crossroads_Before_Fungal_Dupe_1">
+		<loadout difficulty="0">Crossroads</loadout>
+	</location>
+	<location name="Geo_Rock-Crossroads_Before_Fungal_Dupe_2">
+		<loadout difficulty="0">Crossroads</loadout>
+	</location>
+	<location name="Geo_Rock-Crossroads_Before_Shops">
+		<loadout difficulty="0">Crossroads</loadout>
+	</location>
+	<location name="Geo_Rock-Crossroads_Before_Glowing_Womb">
+		<loadout difficulty="0">Crossroads</loadout>
+	</location>
+	<location name="Geo_Rock-Crossroads_Above_Tram">
+		<loadout difficulty="1">Crossroads</loadout>
+	</location>
+	<location name="Geo_Rock-Crossroads_Above_Mawlek">
+		<loadout difficulty="0">Crossroads</loadout>
+	</location>
+	<location name="Geo_Rock-Crossroads_Vessel_Fragment">
+		<loadout difficulty="0">Left_Elevator</loadout>
+	</location>
+	<location name="Geo_Rock-Crossroads_Goam_Alcove">
+		<loadout difficulty="0">Crossroads</loadout>
+	</location>
+	<location name="Geo_Rock-Crossroads_Goam_Damage_Boost">
+		<loadout difficulty="0">Crossroads</loadout>
+	</location>
+	<location name="Geo_Rock-Crossroads_Tram">
+		<loadout difficulty="0">Crossroads</loadout>
+	</location>
+	<location name="Geo_Rock-Crossroads_Goam_Journal">
+		<loadout difficulty="0">Crossroads + QUAKE + DASH</loadout>
+		<loadout difficulty="0">Crossroads + QUAKE + WINGS</loadout>
+		<loadout difficulty="2">Crossroads + QUAKE + INFECTED</loadout>
+		<loadout difficulty="3">Crossroads + QUAKE + CLAW + AIRSTALL</loadout>
+	</location>
+	<location name="Geo_Rock-Crossroads_Goam_Journal_Dupe">
+		<loadout difficulty="0">Crossroads + QUAKE + DASH</loadout>
+		<loadout difficulty="0">Crossroads + QUAKE + WINGS</loadout>
+		<loadout difficulty="2">Crossroads + QUAKE + INFECTED</loadout>
+		<loadout difficulty="3">Crossroads + QUAKE + CLAW + AIRSTALL</loadout>
+	</location>
+	<location name="Geo_Rock-Ancestral_Mound">
+		<loadout difficulty="0">Crossroads</loadout>
+	</location>
+	<location name="Geo_Rock-Ancestral_Mound_Dupe">
+		<loadout difficulty="0">Crossroads</loadout>
+	</location>
+	<location name="Geo_Rock-Ancestral_Mound_Tree">
+		<loadout difficulty="0">Crossroads + WINGS</loadout>
+	</location>
+	<location name="Geo_Rock-Ancestral_Mound_Tree_Dupe">
+		<loadout difficulty="0">Crossroads + WINGS</loadout>
+	</location>
+	<location name="Geo_Rock-Moss_Prophet">
+		<loadout difficulty="0">Bottom_Left_Fungal_Wastes + CLAW</loadout>
+		<loadout difficulty="0">Bottom_Left_Fungal_Wastes + WINGS</loadout>
+		<loadout difficulty="0">Bottom_Left_Fungal_Wastes + SUPERDASH</loadout>
+		<loadout difficulty="0">Bottom_Left_Fungal_Wastes + DASH</loadout>
+	</location>
+	<location name="Geo_Rock-Moss_Prophet_Dupe">
+		<loadout difficulty="0">Bottom_Left_Fungal_Wastes + CLAW</loadout>
+		<loadout difficulty="0">Bottom_Left_Fungal_Wastes + WINGS</loadout>
+		<loadout difficulty="0">Bottom_Left_Fungal_Wastes + SUPERDASH</loadout>
+		<loadout difficulty="0">Bottom_Left_Fungal_Wastes + DASH</loadout>
+	</location>
+	<location name="Geo_Rock-Deepnest_Below_Mimics">
+		<loadout difficulty="3">Bottom_Left_Fungal_Wastes</loadout>
+		<loadout difficulty="1">Upper_Deepnest + WINGS</loadout>
+		<loadout difficulty="1">Upper_Deepnest + CLAW + DASH</loadout>
+		<loadout difficulty="1">Upper_Deepnest + CLAW + SUPERDASH</loadout>
+	</location>
+	<location name="Geo_Rock-Deepnest_Below_Mimics_Dupe">
+		<loadout difficulty="3">Bottom_Left_Fungal_Wastes</loadout>
+		<loadout difficulty="1">Upper_Deepnest + WINGS</loadout>
+		<loadout difficulty="1">Upper_Deepnest + CLAW + DASH</loadout>
+		<loadout difficulty="1">Upper_Deepnest + CLAW + SUPERDASH</loadout>
+	</location>
+	<location name="Geo_Rock-Deepnest_Below_Spike_Grub">
+		<loadout difficulty="1">Deepnest + CLAW</loadout>
+		<loadout difficulty="1">Deepnest + WINGS</loadout>
+	</location>
+	<location name="Geo_Rock-Deepnest_Below_Spike_Grub_Dupe">
+		<loadout difficulty="1">Deepnest + CLAW</loadout>
+		<loadout difficulty="1">Deepnest + WINGS</loadout>
+	</location>
+	<location name="Geo_Rock-Deepnest_Spike_Grub_Right">
+		<loadout difficulty="1">Deepnest + CLAW</loadout>
+		<loadout difficulty="1">Deepnest + WINGS</loadout>
+	</location>
+	<location name="Geo_Rock-Deepnest_By_Mantis_Lords_Garpede_Pogo">
+		<loadout difficulty="1">Far_Right_Deepnest + WINGS</loadout>
+		<loadout difficulty="0">Far_Right_Deepnest + CLAW</loadout>
+	</location>
+	<location name="Geo_Rock-Deepnest_By_Mantis_Lords_Garpede_Pogo_Dupe">
+		<loadout difficulty="1">Far_Right_Deepnest + WINGS</loadout>
+		<loadout difficulty="0">Far_Right_Deepnest + CLAW</loadout>
+	</location>
+	<location name="Geo_Rock-Deepnest_By_Mantis_Lords_Requires_Claw_1">
+		<loadout difficulty="0">Far_Right_Deepnest + CLAW</loadout>
+	</location>
+	<location name="Geo_Rock-Deepnest_By_Mantis_Lords_Requires_Claw_2">
+		<loadout difficulty="0">Far_Right_Deepnest + CLAW</loadout>
+	</location>
+	<location name="Geo_Rock-Deepnest_By_Mantis_Lords_Requires_Claw_3">
+		<loadout difficulty="1">Far_Right_Deepnest + CLAW</loadout>
+	</location>
+	<location name="Geo_Rock-Deepnest_Nosk_1">
+		<loadout difficulty="-1">Deepnest + SUPERDASH</loadout>
+		<loadout difficulty="0">Deepnest + WINGS</loadout>
+		<loadout difficulty="3">Deepnest + CLAW + SHADESKIPS</loadout>
+	</location>
+	<location name="Geo_Rock-Deepnest_Nosk_2">
+		<loadout difficulty="-1">Deepnest + SUPERDASH</loadout>
+		<loadout difficulty="0">Deepnest + WINGS</loadout>
+		<loadout difficulty="3">Deepnest + CLAW + SHADESKIPS</loadout>
+	</location>
+	<location name="Geo_Rock-Deepnest_Nosk_3">
+		<loadout difficulty="0">Deepnest + CLAW + SUPERDASH</loadout>
+		<loadout difficulty="0">Deepnest + CLAW + WINGS</loadout>
+		<loadout difficulty="3">Deepnest + CLAW + SHADESKIPS</loadout>
+	</location>
+	<location name="Geo_Rock-Deepnest_Above_Galien">
+		<loadout difficulty="1">Dark_Deepnest + CLAW</loadout>
+		<loadout difficulty="1">Dark_Deepnest + WINGS</loadout>
+	</location>
+	<location name="Geo_Rock-Deepnest_Galien_Spike">
+		<loadout difficulty="1">Dark_Deepnest + CLAW</loadout>
+		<loadout difficulty="3">Dark_Deepnest + WINGS + MILDSKIPS</loadout>
+	</location>
+	<location name="Geo_Rock-Deepnest_Garpede_1">
+		<loadout difficulty="1">Deepnest</loadout>
+	</location>
+	<location name="Geo_Rock-Deepnest_Garpede_2">
+		<loadout difficulty="1">Deepnest</loadout>
+	</location>
+	<location name="Geo_Rock-Dark_Deepnest_Above_Grub_1">
+		<loadout difficulty="1">Dark_Deepnest + CLAW</loadout>
+		<loadout difficulty="3">Dark_Deepnest + WINGS + MILDSKIPS</loadout>
+	</location>
+	<location name="Geo_Rock-Dark_Deepnest_Above_Grub_2">
+		<loadout difficulty="1">Dark_Deepnest + CLAW</loadout>
+		<loadout difficulty="3">Dark_Deepnest + WINGS + MILDSKIPS</loadout>
+	</location>
+	<location name="Geo_Rock-Dark_Deepnest_Bottom_Left">
+		<loadout difficulty="1">Dark_Deepnest + CLAW</loadout>
+		<loadout difficulty="2">Dark_Deepnest + WINGS + MILDSKIPS</loadout>
+	</location>
+	<location name="Geo_Rock-Above_Mask_Maker_1">
+		<loadout difficulty="0">Bottom_Left_Queen's_Gardens + CLAW</loadout>
+		<loadout difficulty="0">Bottom_Left_Queen's_Gardens + WINGS</loadout>
+	</location>
+	<location name="Geo_Rock-Above_Mask_Maker_2">
+		<loadout difficulty="0">Bottom_Left_Queen's_Gardens + CLAW</loadout>
+		<loadout difficulty="0">Bottom_Left_Queen's_Gardens + WINGS</loadout>
+	</location>
+	<location name="Geo_Rock-Lower_Kingdom's_Edge_1">
+		<loadout difficulty="0">Lower_Kingdom's_Edge + CLAW</loadout>
+		<loadout difficulty="0">Lower_Kingdom's_Edge + WINGS</loadout>
+		<loadout difficulty="3">Lower_Kingdom's_Edge + MILDSKIPS</loadout>
+	</location>
+	<location name="Geo_Rock-Lower_Kingdom's_Edge_2">
+		<loadout difficulty="0">Lower_Kingdom's_Edge + CLAW</loadout>
+		<loadout difficulty="0">Lower_Kingdom's_Edge + WINGS</loadout>
+		<loadout difficulty="3">Lower_Kingdom's_Edge + MILDSKIPS</loadout>
+	</location>
+	<location name="Geo_Rock-Lower_Kingdom's_Edge_3">
+		<loadout difficulty="0">Lower_Kingdom's_Edge + CLAW</loadout>
+		<loadout difficulty="1">Lower_Kingdom's_Edge + WINGS</loadout>
+	</location>
+	<location name="Geo_Rock-Lower_Kingdom's_Edge_Dive">
+		<loadout difficulty="0">Lower_Kingdom's_Edge + QUAKE + CLAW</loadout>
+		<loadout difficulty="0">Lower_Kingdom's_Edge + QUAKE + WINGS</loadout>
+	</location>
+	<location name="Geo_Rock-Kingdom's_Edge_Below_Bardoon">
+		<loadout difficulty="2">Center_Right_Kingdom's_Edge</loadout>
+	</location>
+	<location name="Geo_Rock-Kingdom's_Edge_Oro_Far_Left">
+		<loadout difficulty="0">Central_Kingdom's_Edge + CLAW</loadout>
+		<loadout difficulty="0">Central_Kingdom's_Edge + WINGS + SHADESKIPS</loadout>
+	</location>
+	<location name="Geo_Rock-Kingdom's_Edge_Oro_Middle_Left">
+		<loadout difficulty="0">Central_Kingdom's_Edge + CLAW</loadout>
+		<loadout difficulty="1">Central_Kingdom's_Edge + WINGS + SPICYSKIPS</loadout>
+	</location>
+	<location name="Geo_Rock-Kingdom's_Edge_Above_Root">
+		<loadout difficulty="1">Upper_Kingdom's_Edge</loadout>
+	</location>
+	<location name="Geo_Rock-Kingdom's_Edge_Above_Tower">
+		<loadout difficulty="0">Upper_Kingdom's_Edge</loadout>
+	</location>
+	<location name="Geo_Rock-Kingdom's_Edge_Below_Colosseum">
+		<loadout difficulty="1">Top_Kingdom's_Edge + CLAW</loadout>
+		<loadout difficulty="0">Top_Kingdom's_Edge + WINGS</loadout>
+	</location>
+	<location name="Geo_Rock-Kingdom's_Edge_Above_420_Geo_Rock">
+		<loadout difficulty="0">Oro_Bench + CLAW + QUAKE + DASH</loadout>
+		<loadout difficulty="1">Oro_Bench + CLAW + QUAKE + SPIKETUNNELS</loadout>
+		<loadout difficulty="1">Oro_Bench + WINGS + QUAKE + DASH</loadout>
+		<loadout difficulty="2">Oro_Bench + WINGS + QUAKE + SPIKETUNNELS</loadout>
+	</location>
+	<location name="Geo_Rock-Kingdom's_Edge_420_Geo_Rock">
+		<loadout difficulty="0">Oro_Bench + CLAW + QUAKE + DASH</loadout>
+		<loadout difficulty="1">Oro_Bench + CLAW + QUAKE + SPIKETUNNELS</loadout>
+		<loadout difficulty="1">Oro_Bench + WINGS + QUAKE + DASH</loadout>
+		<loadout difficulty="2">Oro_Bench + WINGS + QUAKE + SPIKETUNNELS</loadout>
+	</location>
+	<location name="Geo_Rock-Beast's_Den_Above_Trilobite">
+		<loadout difficulty="3">Beast's_Den + CLAW</loadout>
+		<loadout difficulty="2">Beast's_Den + CLAW + FIREBALL</loadout>
+		<loadout difficulty="2">Beast's_Den + CLAW + QUAKE</loadout>
+		<loadout difficulty="3">Beast's_Den + WINGS + SPICYSKIPS + SHADESKIPS</loadout>
+	</location>
+	<location name="Geo_Rock-Beast's_Den_Above_Trilobite_Dupe">
+		<loadout difficulty="3">Beast's_Den + CLAW</loadout>
+		<loadout difficulty="2">Beast's_Den + CLAW + FIREBALL</loadout>
+		<loadout difficulty="2">Beast's_Den + CLAW + QUAKE</loadout>
+		<loadout difficulty="3">Beast's_Den + WINGS + SPICYSKIPS + SHADESKIPS</loadout>
+	</location>
+	<location name="Geo_Rock-Beast's_Den_Below_Herrah">
+		<loadout difficulty="3">Beast's_Den + CLAW</loadout>
+		<loadout difficulty="2">Beast's_Den + CLAW + FIREBALL</loadout>
+		<loadout difficulty="2">Beast's_Den + CLAW + QUAKE</loadout>
+		<loadout difficulty="3">Beast's_Den + WINGS + SPICYSKIPS + SHADESKIPS</loadout>
+	</location>
+	<location name="Geo_Rock-Beast's_Den_Below_Egg">
+		<loadout difficulty="3">Beast's_Den + CLAW</loadout>
+		<loadout difficulty="2">Beast's_Den + CLAW + FIREBALL</loadout>
+		<loadout difficulty="2">Beast's_Den + CLAW + QUAKE</loadout>
+		<loadout difficulty="3">Beast's_Den + WINGS + SPICYSKIPS + SHADESKIPS</loadout>
+	</location>
+	<location name="Geo_Rock-Beast's_Den_Below_Egg_Dupe">
+		<loadout difficulty="3">Beast's_Den + CLAW</loadout>
+		<loadout difficulty="2">Beast's_Den + CLAW + FIREBALL</loadout>
+		<loadout difficulty="2">Beast's_Den + CLAW + QUAKE</loadout>
+		<loadout difficulty="3">Beast's_Den + WINGS + SPICYSKIPS + SHADESKIPS</loadout>
+	</location>
+	<location name="Geo_Rock-Beast's_Den_Bottom">
+		<loadout difficulty="1">Beast's_Den</loadout>
+	</location>
+	<location name="Geo_Rock-Beast's_Den_Bottom_Dupe">
+		<loadout difficulty="1">Beast's_Den</loadout>
+	</location>
+	<location name="Geo_Rock-Beast's_Den_After_Herrah">
+		<loadout difficulty="3">Beast's_Den + CLAW</loadout>
+		<loadout difficulty="2">Beast's_Den + CLAW + FIREBALL</loadout>
+		<loadout difficulty="2">Beast's_Den + CLAW + QUAKE</loadout>
+	</location>
+	<location name="Geo_Rock-Greenpath_Entrance">
+		<loadout difficulty="0">Greenpath</loadout>
+	</location>
+	<location name="Geo_Rock-Greenpath_Waterfall">
+		<loadout difficulty="0">Greenpath</loadout>
+	</location>
+	<location name="Geo_Rock-Greenpath_Below_Skip_Squit">
+		<loadout difficulty="0">Greenpath</loadout>
+	</location>
+	<location name="Geo_Rock-Greenpath_Skip_Squit">
+		<loadout difficulty="0">Greenpath</loadout>
+	</location>
+	<location name="Geo_Rock-Greenpath_Second_Skip_Fool_Eater">
+		<loadout difficulty="0">Greenpath</loadout>
+	</location>
+	<location name="Geo_Rock-Greenpath_Second_Skip_Fool_Eater_Dupe">
+		<loadout difficulty="0">Greenpath</loadout>
+	</location>
+	<location name="Geo_Rock-Greenpath_Second_Skip_Lower">
+		<loadout difficulty="0">Greenpath</loadout>
+	</location>
+	<location name="Geo_Rock-Greenpath_Below_Hornet">
+		<loadout difficulty="0">Greenpath + DASH</loadout>
+		<loadout difficulty="0">Greenpath + WINGS</loadout>
+		<loadout difficulty="0">Greenpath + WINGS + DASH</loadout>
+		<loadout difficulty="0">Greenpath + WINGS + CLAW</loadout>
+		<loadout difficulty="0">Greenpath + WINGS + SHADESKIPS</loadout>
+		<loadout difficulty="0">Greenpath + WINGS + AIRSTALL</loadout>
+		<loadout difficulty="0">Greenpath + SUPERDASH + WINGS</loadout>
+		<loadout difficulty="0">Greenpath + SUPERDASH + CLAW</loadout>
+		<loadout difficulty="1">Greenpath + SUPERDASH + SHADESKIPS</loadout>
+		<loadout difficulty="1">Greenpath + SUPERDASH + AIRSTALL</loadout>
+		<loadout difficulty="0">Greenpath + ACID + WINGS</loadout>
+		<loadout difficulty="0">Greenpath + ACID + CLAW</loadout>
+		<loadout difficulty="1">Greenpath + ACID + SHADESKIPS</loadout>
+		<loadout difficulty="1">Greenpath + ACID + AIRSTALL</loadout>
+		<loadout difficulty="3">Greenpath + AIRSTALL</loadout>
+		<loadout difficulty="0">Greenpath + AIRSTALL + CLAW</loadout>
+		<loadout difficulty="0">Greenpath + AIRSTALL + SHADESKIPS</loadout>
+	</location>
+	<location name="Geo_Rock-Greenpath_Above_Thorns">
+		<loadout difficulty="0">Greenpath</loadout>
+	</location>
+	<location name="Geo_Rock-Greenpath_Hunter's_Journal">
+		<loadout difficulty="0">Greenpath</loadout>
+	</location>
+	<location name="Geo_Rock-Greenpath_Acid_Bridge">
+		<loadout difficulty="0">Greenpath + DASH</loadout>
+		<loadout difficulty="0">Greenpath + CLAW</loadout>
+		<loadout difficulty="0">Greenpath + WINGS</loadout>
+		<loadout difficulty="1">Greenpath + SHADESKIPS</loadout>
+		<loadout difficulty="2">Greenpath + AIRSTALL</loadout>
+	</location>
+	<location name="Geo_Rock-Greenpath_After_MMC_Hidden">
+		<loadout difficulty="0">Greenpath + DASH</loadout>
+		<loadout difficulty="0">Greenpath + CLAW</loadout>
+		<loadout difficulty="0">Greenpath + WINGS</loadout>
+		<loadout difficulty="0">Greenpath + SUPERDASH</loadout>
+		<loadout difficulty="2">Greenpath + AIRSTALL</loadout>
+		<loadout difficulty="2">Greenpath + SHADESKIPS</loadout>
+	</location>
+	<location name="Geo_Rock-Greenpath_After_MMC">
+		<loadout difficulty="0">Greenpath + DASH</loadout>
+		<loadout difficulty="0">Greenpath + CLAW</loadout>
+		<loadout difficulty="0">Greenpath + WINGS</loadout>
+		<loadout difficulty="0">Greenpath + SUPERDASH</loadout>
+		<loadout difficulty="2">Greenpath + AIRSTALL</loadout>
+		<loadout difficulty="2">Greenpath + SHADESKIPS</loadout>
+	</location>
+	<location name="Geo_Rock-Greenpath_After_MMC_Dupe">
+		<loadout difficulty="0">Greenpath + DASH</loadout>
+		<loadout difficulty="0">Greenpath + CLAW</loadout>
+		<loadout difficulty="0">Greenpath + WINGS</loadout>
+		<loadout difficulty="0">Greenpath + SUPERDASH</loadout>
+		<loadout difficulty="2">Greenpath + AIRSTALL</loadout>
+		<loadout difficulty="2">Greenpath + SHADESKIPS</loadout>
+	</location>
+	<location name="Geo_Rock-Greenpath_Obbles_Fool_Eater">
+		<loadout difficulty="0">Greenpath</loadout>
+	</location>
+	<location name="Geo_Rock-Greenpath_Moss_Knights">
+		<loadout difficulty="2">Greenpath</loadout>
+		<loadout difficulty="1">Greenpath + MINIBOSS</loadout>
+	</location>
+	<location name="Geo_Rock-Greenpath_Moss_Knights_Dupe_1">
+		<loadout difficulty="2">Greenpath</loadout>
+		<loadout difficulty="1">Greenpath + MINIBOSS</loadout>
+	</location>
+	<location name="Geo_Rock-Greenpath_Moss_Knights_Dupe_2">
+		<loadout difficulty="2">Greenpath</loadout>
+		<loadout difficulty="1">Greenpath + MINIBOSS</loadout>
+	</location>
+	<location name="Geo_Rock-Greenpath_Below_Stag">
+		<loadout difficulty="0">Greenpath</loadout>
+	</location>
+	<location name="Geo_Rock-Greenpath_Below_Stag_Fool_Eater">
+		<loadout difficulty="0">Greenpath</loadout>
+	</location>
+	<location name="Geo_Rock-Baldur_Shell_Top_Left">
+		<loadout difficulty="0">Howling_Cliffs</loadout>
+		<loadout difficulty="0">Greenpath</loadout>
+	</location>
+	<location name="Geo_Rock-Baldur_Shell_Alcove">
+		<loadout difficulty="0">Howling_Cliffs</loadout>
+		<loadout difficulty="0">Greenpath</loadout>
+	</location>
+	<location name="Geo_Rock-Greenpath_MMC">
+		<loadout difficulty="0">Greenpath + DASH</loadout>
+		<loadout difficulty="0">Greenpath + CLAW</loadout>
+		<loadout difficulty="0">Greenpath + WINGS</loadout>
+		<loadout difficulty="0">Greenpath + SUPERDASH</loadout>
+		<loadout difficulty="2">Greenpath + AIRSTALL</loadout>
+		<loadout difficulty="2">Greenpath + SHADESKIPS</loadout>
+	</location>
+	<location name="Geo_Rock-Greenpath_Below_Toll">
+		<loadout difficulty="0">Greenpath</loadout>
+	</location>
+	<location name="Geo_Rock-Greenpath_Toll_Hidden">
+		<loadout difficulty="0">Greenpath</loadout>
+	</location>
+	<location name="Geo_Rock-Greenpath_Toll_Hidden_Dupe">
+		<loadout difficulty="0">Greenpath</loadout>
+	</location>
+	<location name="Geo_Rock-Fungal_Below_Shrumal_Ogres">
+		<loadout difficulty="1">Fungal_Wastes</loadout>
+	</location>
+	<location name="Geo_Rock-Fungal_Above_Cloth">
+		<loadout difficulty="1">Fungal_Wastes</loadout>
+	</location>
+	<location name="Geo_Rock-Fungal_After_Cloth">
+		<loadout difficulty="0">Fungal_Wastes + DASH</loadout>
+		<loadout difficulty="0">Fungal_Wastes + CLAW</loadout>
+		<loadout difficulty="0">Fungal_Wastes + WINGS</loadout>
+		<loadout difficulty="-1">Fungal_Wastes + SHADESKIPS</loadout>
+	</location>
+	<location name="Geo_Rock-Fungal_Below_Pilgrim's_Way">
+		<loadout difficulty="0">Fungal_Wastes</loadout>
+	</location>
+	<location name="Geo_Rock-Fungal_Below_Pilgrim's_Way_Dupe">
+		<loadout difficulty="0">Fungal_Wastes</loadout>
+	</location>
+	<location name="Geo_Rock-Mantis_Outskirts_Guarded">
+		<loadout difficulty="1">Mantis_Outskirts</loadout>
+	</location>
+	<location name="Geo_Rock-Mantis_Outskirts_Guarded_Dupe">
+		<loadout difficulty="1">Mantis_Outskirts</loadout>
+	</location>
+	<location name="Geo_Rock-Mantis_Outskirts_Alcove">
+		<loadout difficulty="0">Mantis_Outskirts</loadout>
+	</location>
+	<location name="Geo_Rock-Mantis_Village_After_Lever">
+		<loadout difficulty="0">Mantis_Village + CLAW</loadout>
+		<loadout difficulty="0">Mantis_Village + WINGS</loadout>
+		<loadout difficulty="1">Mantis_Village + MILDSKIPS</loadout>
+	</location>
+	<location name="Geo_Rock-Mantis_Village_Above_Claw">
+		<loadout difficulty="3">Mantis_Village + SPICYSKIPS</loadout>
+		<loadout difficulty="0">Mantis_Village + WINGS</loadout>
+		<loadout difficulty="0">Mantis_Village + CLAW + SUPERDASH</loadout>
+		<loadout difficulty="1">Mantis_Village + CLAW + MILDSKIPS</loadout>
+	</location>
+	<location name="Geo_Rock-Mantis_Village_Above_Claw_Dupe">
+		<loadout difficulty="3">Mantis_Village + SPICYSKIPS</loadout>
+		<loadout difficulty="0">Mantis_Village + WINGS</loadout>
+		<loadout difficulty="0">Mantis_Village + CLAW + SUPERDASH</loadout>
+		<loadout difficulty="1">Mantis_Village + CLAW + MILDSKIPS</loadout>
+	</location>
+	<location name="Geo_Rock-Mantis_Village_Below_Lore">
+		<loadout difficulty="0">Fungal_Wastes + WINGS</loadout>
+		<loadout difficulty="1">Fungal_Wastes + CLAW</loadout>
+		<loadout difficulty="1">Fungal_Wastes + SPICYSKIPS</loadout>
+	</location>
+	<location name="Geo_Rock-Mantis_Village_Above_Lever">
+		<loadout difficulty="1">Fungal_Wastes + WINGS</loadout>
+		<loadout difficulty="0">Fungal_Wastes + WINGS + DASH</loadout>
+		<loadout difficulty="1">Fungal_Wastes + CLAW</loadout>
+		<loadout difficulty="0">Fungal_Wastes + CLAW + DASH</loadout>
+	</location>
+	<location name="Geo_Rock-Above_Mantis_Lords_1">
+		<loadout difficulty="1">Fungal_Wastes + WINGS</loadout>
+		<loadout difficulty="0">Fungal_Wastes + WINGS + DASH</loadout>
+		<loadout difficulty="1">Fungal_Wastes + CLAW</loadout>
+		<loadout difficulty="0">Fungal_Wastes + CLAW + DASH</loadout>
+	</location>
+	<location name="Geo_Rock-Above_Mantis_Lords_2">
+		<loadout difficulty="1">Fungal_Wastes + WINGS</loadout>
+		<loadout difficulty="0">Fungal_Wastes + WINGS + DASH</loadout>
+		<loadout difficulty="1">Fungal_Wastes + CLAW</loadout>
+		<loadout difficulty="0">Fungal_Wastes + CLAW + DASH</loadout>
+	</location>
+	<location name="Geo_Rock-Fungal_After_Bouncy_Grub">
+		<loadout difficulty="0">Fungal_Wastes</loadout>
+	</location>
+	<location name="Geo_Rock-Fungal_After_Bouncy_Grub_Dupe">
+		<loadout difficulty="0">Fungal_Wastes</loadout>
+	</location>
+	<location name="Geo_Rock-Fungal_Bouncy_Grub_Lever">
+		<loadout difficulty="0">Fungal_Wastes</loadout>
+	</location>
+	<location name="Geo_Rock-Fungal_After_Cornifer">
+		<loadout difficulty="0">Fungal_Wastes</loadout>
+	</location>
+	<location name="Geo_Rock-Fungal_Above_City_Entrance">
+		<loadout difficulty="0">Left_City + CLAW</loadout>
+	</location>
+	<location name="Geo_Rock-Deepnest_By_Mantis_Lords_1">
+		<loadout difficulty="1">Far_Right_Deepnest + WINGS</loadout>
+		<loadout difficulty="0">Far_Right_Deepnest + CLAW</loadout>
+	</location>
+	<location name="Geo_Rock-Deepnest_By_Mantis_Lords_2">
+		<loadout difficulty="1">Far_Right_Deepnest + WINGS</loadout>
+		<loadout difficulty="0">Far_Right_Deepnest + CLAW</loadout>
+	</location>
+	<location name="Geo_Rock-Depenest_Lower_Cornifer">
+		<loadout difficulty="0">Far_Right_Deepnest + CLAW</loadout>
+	</location>
+	<location name="Geo_Rock-Fungal_Core_Entrance">
+		<loadout difficulty="0">Fungal_Core</loadout>
+	</location>
+	<location name="Geo_Rock-Fungal_Core_Hidden">
+		<loadout difficulty="0">Fungal_Core</loadout>
+	</location>
+	<location name="Geo_Rock-Fungal_Core_Above_Elder">
+		<loadout difficulty="1">Fungal_Core</loadout>
+	</location>
+	<location name="Geo_Rock-Queen's_Gardens_Acid_Entrance">
+		<loadout difficulty="0">Left_Fog_Canyon + CLAW</loadout>
+		<loadout difficulty="1">Left_Fog_Canyon + WINGS + SHADESKIPS</loadout>
+	</location>
+	<location name="Geo_Rock-Queen's_Gardens_Below_Stag">
+		<loadout difficulty="0">Top_Left_Queen's_Gardens</loadout>
+	</location>
+	<location name="Geo_Rock-Fog_Canyon_East">
+		<loadout difficulty="1">Right_Fog_Canyon</loadout>
+	</location>
+	<location name="Geo_Rock-Love_Key">
+		<loadout difficulty="0">Bottom_Right_Queen's_Gardens</loadout>
+	</location>
+	<location name="Geo_Rock-Love_Key_Dupe">
+		<loadout difficulty="0">Bottom_Right_Queen's_Gardens</loadout>
+	</location>
+	<location name="Geo_Rock-Queen's_Gardens_Above_Marmu">
+		<loadout difficulty="3">Top_Left_Queen's_Gardens</loadout>
+	</location>
+	<location name="Geo_Rock-Pale_Lurker">
+		<loadout difficulty="0">Pale_Lurker_Area + CLAW + WINGS</loadout>
+		<loadout difficulty="1">Pale_Lurker_Area + CLAW + SUPERDASH</loadout>
+	</location>
+	<location name="Geo_Rock-Godhome_Pipeway">
+		<loadout difficulty="3">Lower_Left_Waterways + CLAW</loadout>
+		<loadout difficulty="3">Lower_Left_Waterways + WINGS</loadout>
+	</location>
+	<location name="Geo_Rock-Hive_Entrance">
+		<loadout difficulty="0">Hive</loadout>
+	</location>
+	<location name="Geo_Rock-Hive_Outside_Bench">
+		<loadout difficulty="1">Hive + CLAW + WINGS</loadout>
+		<loadout difficulty="4">Hive + MILDSKIPS + CLAW</loadout>
+		<loadout difficulty="4">Hive + MILDSKIPS + WINGS</loadout>
+	</location>
+	<location name="Geo_Rock-Hive_Below_Root">
+		<loadout difficulty="2">Hive + CLAW + WINGS</loadout>
+		<loadout difficulty="5">Hive + MILDSKIPS + CLAW</loadout>
+		<loadout difficulty="5">Hive + MILDSKIPS + WINGS</loadout>
+	</location>
+	<location name="Geo_Rock-Hive_After_Root">
+		<loadout difficulty="3">Hive + CLAW + WINGS</loadout>
+		<loadout difficulty="0">Hive + CLAW + WINGS + Hiveblood</loadout>
+		<loadout difficulty="7">Hive + MILDSKIPS + CLAW</loadout>
+		<loadout difficulty="1">Hive + MILDSKIPS + CLAW + Hiveblood</loadout>
+		<loadout difficulty="6">Hive + MILDSKIPS + WINGS</loadout>
+		<loadout difficulty="1">Hive + MILDSKIPS + WINGS + Hiveblood</loadout>
+	</location>
+	<location name="Geo_Rock-Hive_Below_Stash">
+		<loadout difficulty="3">Hive + CLAW + WINGS</loadout>
+		<loadout difficulty="0">Hive + CLAW + WINGS + Hiveblood</loadout>
+		<loadout difficulty="7">Hive + MILDSKIPS + CLAW</loadout>
+		<loadout difficulty="1">Hive + MILDSKIPS + CLAW + Hiveblood</loadout>
+		<loadout difficulty="6">Hive + MILDSKIPS + WINGS</loadout>
+		<loadout difficulty="1">Hive + MILDSKIPS + WINGS + Hiveblood</loadout>
+	</location>
+	<location name="Geo_Rock-Hive_Stash">
+		<loadout difficulty="3">Hive + CLAW + WINGS</loadout>
+		<loadout difficulty="0">Hive + CLAW + WINGS + Hiveblood</loadout>
+		<loadout difficulty="7">Hive + MILDSKIPS + CLAW</loadout>
+		<loadout difficulty="1">Hive + MILDSKIPS + CLAW + Hiveblood</loadout>
+		<loadout difficulty="6">Hive + MILDSKIPS + WINGS</loadout>
+		<loadout difficulty="1">Hive + MILDSKIPS + WINGS + Hiveblood</loadout>
+	</location>
+	<location name="Geo_Rock-Hive_Stash_Dupe">
+		<loadout difficulty="3">Hive + CLAW + WINGS</loadout>
+		<loadout difficulty="0">Hive + CLAW + WINGS + Hiveblood</loadout>
+		<loadout difficulty="7">Hive + MILDSKIPS + CLAW</loadout>
+		<loadout difficulty="1">Hive + MILDSKIPS + CLAW + Hiveblood</loadout>
+		<loadout difficulty="6">Hive + MILDSKIPS + WINGS</loadout>
+		<loadout difficulty="1">Hive + MILDSKIPS + WINGS + Hiveblood</loadout>
+	</location>
+	<location name="Geo_Rock-Hive_Below_Grub">
+		<loadout difficulty="3">Hive + CLAW + WINGS</loadout>
+		<loadout difficulty="0">Hive + CLAW + WINGS + Hiveblood</loadout>
+		<loadout difficulty="7">Hive + MILDSKIPS + CLAW</loadout>
+		<loadout difficulty="1">Hive + MILDSKIPS + CLAW + Hiveblood</loadout>
+		<loadout difficulty="6">Hive + MILDSKIPS + WINGS</loadout>
+		<loadout difficulty="1">Hive + MILDSKIPS + WINGS + Hiveblood</loadout>
+	</location>
+	<location name="Geo_Rock-Hive_Above_Mask">
+		<loadout difficulty="3">Hive + CLAW + WINGS</loadout>
+		<loadout difficulty="0">Hive + CLAW + WINGS + Hiveblood</loadout>
+		<loadout difficulty="7">Hive + MILDSKIPS + CLAW</loadout>
+		<loadout difficulty="1">Hive + MILDSKIPS + CLAW + Hiveblood</loadout>
+		<loadout difficulty="6">Hive + MILDSKIPS + WINGS</loadout>
+		<loadout difficulty="1">Hive + MILDSKIPS + WINGS + Hiveblood</loadout>
+	</location>
+	<location name="Geo_Rock-Crystal_Peak_Lower_Middle">
+		<loadout difficulty="1">Crystal_Peak + CLAW</loadout>
+		<loadout difficulty="1">Crystal_Peak + WINGS</loadout>
+	</location>
+	<location name="Geo_Rock-Crystal_Peak_Lower_Conveyer_1">
+		<loadout difficulty="0">Crystal_Peak</loadout>
+	</location>
+	<location name="Geo_Rock-Crystal_Peak_Lower_Conveyer_2">
+		<loadout difficulty="0">Crystal_Peak</loadout>
+	</location>
+	<location name="Geo_Rock-Crystal_Peak_Before_Dark_Room">
+		<loadout difficulty="1">Crystal_Peak</loadout>
+	</location>
+	<location name="Geo_Rock-Crystal_Peak_Before_Dark_Room_Dupe">
+		<loadout difficulty="1">Crystal_Peak</loadout>
+	</location>
+	<location name="Geo_Rock-Crystal_Peak_Above_Spike_Grub">
+		<loadout difficulty="1">Upper_Crystal_Peak</loadout>
+	</location>
+	<location name="Geo_Rock-Crystal_Peak_Mimic_Grub">
+		<loadout difficulty="2">Upper_Crystal_Peak + CLAW + SUPERDASH</loadout>
+		<loadout difficulty="2">King's_Pass + WINGS + SUPERDASH</loadout>
+	</location>
+	<location name="Geo_Rock-Crystal_Peak_Dive_Egg">
+		<loadout difficulty="1">Upper_Crystal_Peak + QUAKE</loadout>
+	</location>
+	<location name="Geo_Rock-Crystal_Peak_Dive_Egg_Dupe">
+		<loadout difficulty="1">Upper_Crystal_Peak + QUAKE</loadout>
+	</location>
+	<location name="Geo_Rock-Crystal_Peak_Conga_Line">
+		<loadout difficulty="0">Upper_Crystal_Peak</loadout>
+	</location>
+	<location name="Geo_Rock-Hallownest_Crown_Dive">
+		<loadout difficulty="1">Upper_Crystal_Peak + WINGS + CLAW + QUAKE</loadout>
+		<loadout difficulty="5">Upper_Crystal_Peak + WINGS + SPICYSKIPS + QUAKE</loadout>
+		<loadout difficulty="1">Upper_Crystal_Peak + DASH + MILDSKIPS + CLAW + QUAKE</loadout>
+		<loadout difficulty="10">Upper_Crystal_Peak + DASH + MILDSKIPS + SPICYSKIPS + QUAKE</loadout>
+	</location>
+	<location name="Geo_Rock-Hallownest_Crown_Dive_Dupe">
+		<loadout difficulty="1">Upper_Crystal_Peak + WINGS + CLAW + QUAKE</loadout>
+		<loadout difficulty="5">Upper_Crystal_Peak + WINGS + SPICYSKIPS + QUAKE</loadout>
+		<loadout difficulty="1">Upper_Crystal_Peak + DASH + MILDSKIPS + CLAW + QUAKE</loadout>
+		<loadout difficulty="10">Upper_Crystal_Peak + DASH + MILDSKIPS + SPICYSKIPS + QUAKE</loadout>
+	</location>
+	<location name="Geo_Rock-Hallownest_Crown_Hidden">
+		<loadout difficulty="0">Upper_Crystal_Peak + WINGS + CLAW</loadout>
+		<loadout difficulty="7">Upper_Crystal_Peak + WINGS + SPICYSKIPS</loadout>
+		<loadout difficulty="2">Upper_Crystal_Peak + DASH + MILDSKIPS + CLAW</loadout>
+		<loadout difficulty="10">Upper_Crystal_Peak + DASH + MILDSKIPS + SPICYSKIPS</loadout>
+	</location>
+	<location name="Geo_Rock-Hallownest_Crown_Hidden_Dupe_1">
+		<loadout difficulty="0">Upper_Crystal_Peak + WINGS + CLAW</loadout>
+		<loadout difficulty="7">Upper_Crystal_Peak + WINGS + SPICYSKIPS</loadout>
+		<loadout difficulty="2">Upper_Crystal_Peak + DASH + MILDSKIPS + CLAW</loadout>
+		<loadout difficulty="10">Upper_Crystal_Peak + DASH + MILDSKIPS + SPICYSKIPS</loadout>
+	</location>
+	<location name="Geo_Rock-Hallownest_Crown_Hidden_Dupe_2">
+		<loadout difficulty="0">Upper_Crystal_Peak + WINGS + CLAW</loadout>
+		<loadout difficulty="7">Upper_Crystal_Peak + WINGS + SPICYSKIPS</loadout>
+		<loadout difficulty="2">Upper_Crystal_Peak + DASH + MILDSKIPS + CLAW</loadout>
+		<loadout difficulty="10">Upper_Crystal_Peak + DASH + MILDSKIPS + SPICYSKIPS</loadout>
+	</location>
+	<location name="Geo_Rock-Crystal_Peak_Before_Crystal_Heart">
+		<loadout difficulty="0">Upper_Crystal_Peak</loadout>
+	</location>
+	<location name="Geo_Rock-Crystal_Peak_Entrance">
+		<loadout difficulty="0">Crossroads + LANTERN</loadout>
+		<loadout difficulty="0">Crystal_Peak + LANTERN</loadout>
+	</location>
+	<location name="Geo_Rock-Crystal_Peak_Entrance_Dupe_1">
+		<loadout difficulty="0">Crossroads + LANTERN</loadout>
+		<loadout difficulty="0">Crystal_Peak + LANTERN</loadout>
+	</location>
+	<location name="Geo_Rock-Crystal_Peak_Entrance_Dupe_2">
+		<loadout difficulty="0">Crossroads + LANTERN</loadout>
+		<loadout difficulty="0">Crystal_Peak + LANTERN</loadout>
+	</location>
+	<location name="Geo_Rock-Crystal_Peak_Above_Crushers_Lower">
+		<loadout difficulty="1">Upper_Crystal_Peak + CLAW</loadout>
+		<loadout difficulty="2">Upper_Crystal_Peak + WINGS + SHADESKIPS</loadout>
+	</location>
+	<location name="Geo_Rock-Crystal_Peak_Above_Crushers_Higher">
+		<loadout difficulty="1">Upper_Crystal_Peak + CLAW</loadout>
+	</location>
+	<location name="Geo_Rock-Resting_Grounds_Catacombs_Grub">
+		<loadout difficulty="1">Upper_Resting_Grounds + CLAW + QUAKE</loadout>
+		<loadout difficulty="1">Upper_Resting_Grounds + WINGS + QUAKE</loadout>
+	</location>
+	<location name="Geo_Rock-Resting_Grounds_Catacombs_Left_Dupe">
+		<loadout difficulty="1">Upper_Resting_Grounds + QUAKE</loadout>
+	</location>
+	<location name="Geo_Rock-Resting_Grounds_Catacombs_Left">
+		<loadout difficulty="1">Upper_Resting_Grounds + QUAKE</loadout>
+	</location>
+	<location name="Geo_Rock-Overgrown_Mound">
+		<loadout difficulty="2">Overgrown_Mound</loadout>
+	</location>
+	<location name="Geo_Rock-Fluke_Hermit_Dupe">
+		<loadout difficulty="1">Junk_Pit + CLAW</loadout>
+	</location>
+	<location name="Geo_Rock-Fluke_Hermit">
+		<loadout difficulty="1">Junk_Pit + CLAW + DASH</loadout>
+		<loadout difficulty="1">Junk_Pit + CLAW + WINGS</loadout>
+		<loadout difficulty="1">Junk_Pit + CLAW + SUPERDASH</loadout>
+	</location>
+	<location name="Geo_Rock-Pleasure_House">
+		<loadout difficulty="0">Pleasure_House</loadout>
+	</location>
+	<location name="Geo_Rock-City_of_Tears_Quirrel">
+		<loadout difficulty="0">Left_City</loadout>
+	</location>
+	<location name="Geo_Rock-City_of_Tears_Lemm">
+		<loadout difficulty="0">Left_City</loadout>
+	</location>
+	<location name="Geo_Rock-City_of_Tears_Above_Lemm">
+		<loadout difficulty="1">Left_City</loadout>
+	</location>
+	<location name="Geo_Rock-Soul_Sanctum">
+		<loadout difficulty="2">Soul_Sanctum + CLAW + QUAKE</loadout>
+	</location>
+	<location name="Geo_Rock-Watcher's_Spire">
+		<loadout difficulty="1">Right_City + CLAW + WINGS</loadout>
+		<loadout difficulty="1">Right_City + CLAW + WINGS + DASH</loadout>
+		<loadout difficulty="1">Right_City + CLAW + WINGS + SUPERDASH</loadout>
+		<loadout difficulty="1">Right_City + CLAW + MILDSKIPS + DASH</loadout>
+		<loadout difficulty="1">Right_City + CLAW + MILDSKIPS + SUPERDASH</loadout>
+		<loadout difficulty="1">Right_City + CLAW + MILDSKIPS + WINGS</loadout>
+	</location>
+	<location name="Geo_Rock-Above_King's_Station">
+		<loadout difficulty="1">Upper_King's_Station</loadout>
+	</location>
+	<location name="Geo_Rock-King's_Station">
+		<loadout difficulty="0">Lower_King's_Station + CLAW</loadout>
+		<loadout difficulty="1">Lower_King's_Station + WINGS + SHADESKIPS</loadout>
+		<loadout difficulty="3">Lower_King's_Station + WINGS + MILDSKIPS</loadout>
+	</location>
+	<location name="Geo_Rock-King's_Pass_Left">
+		<loadout difficulty="0">King's_Pass</loadout>
+	</location>
+	<location name="Geo_Rock-King's_Pass_Below_Fury">
+		<loadout difficulty="0">King's_Pass</loadout>
+	</location>
+	<location name="Geo_Rock-King's_Pass_Hidden">
+		<loadout difficulty="0">King's_Pass</loadout>
+	</location>
+	<location name="Geo_Rock-King's_Pass_Collapse">
+		<loadout difficulty="1">King's_Pass</loadout>
+	</location>
+	<location name="Geo_Rock-King's_Pass_Above_Fury">
+		<loadout difficulty="0">King's_Pass</loadout>
+	</location>
+	<location name="Geo_Rock-Waterways_Tuk">
+		<loadout difficulty="0">Upper_Left_Waterways + CLAW</loadout>
+		<loadout difficulty="0">Upper_Left_Waterways + WINGS</loadout>
+		<loadout difficulty="3">Upper_Left_Waterways + MILDSKIPS</loadout>
+	</location>
+	<location name="Geo_Rock-Waterways_Tuk_Alcove">
+		<loadout difficulty="0">Upper_Left_Waterways</loadout>
+	</location>
+	<location name="Geo_Rock-Waterways_Left">
+		<loadout difficulty="1">Upper_Left_Waterways + CLAW</loadout>
+		<loadout difficulty="2">Upper_Left_Waterways + WINGS + MILDSKIPS</loadout>
+		<loadout difficulty="0">Far_Left_Waterways + CLAW</loadout>
+		<loadout difficulty="2">Far_Left_Waterways + WINGS + MILDSKIPS</loadout>
+	</location>
+	<location name="Geo_Rock-Waterways_East">
+		<loadout difficulty="1">Right_Waterways + CLAW</loadout>
+	</location>
+	<location name="Geo_Rock-Waterways_Flukemarm">
+		<loadout difficulty="1">Lower_Left_Waterways + CLAW</loadout>
+		<loadout difficulty="2">Lower_Left_Waterways + WINGS</loadout>
+	</location>
+	<location name="Sly">
+		<loadout difficulty="0">Crossroads + Dirtmouth</loadout>
+	</location>
+	<location name="Sly_(Key)">
+		<loadout difficulty="0">SHOPKEY + Crossroads + Dirtmouth</loadout>
+	</location>
+	<location name="Iselda">
+		<loadout difficulty="0">Dirtmouth</loadout>
+	</location>
+	<location name="Salubra">
+		<loadout difficulty="0">Crossroads + CLAW</loadout>
+		<loadout difficulty="0">Crossroads + DASH</loadout>
+		<loadout difficulty="0">Crossroads + WINGS</loadout>
+		<loadout difficulty="0">Crossroads + SUPERDASH</loadout>
+		<loadout difficulty="1">Crossroads + INFECTED</loadout>
+		<loadout difficulty="2">Crossroads + SCREAM + FIREBALLSKIPS</loadout>
+		<loadout difficulty="4">Crossroads + FIREBALL + FIREBALLSKIPS</loadout>
+		<loadout difficulty="2">Crossroads + SHADESKIPS</loadout>
+	</location>
+	<location name="Leg_Eater">
+		<loadout difficulty="0">Fungal_Wastes + DASH</loadout>
+		<loadout difficulty="0">Fungal_Wastes + WINGS</loadout>
+		<loadout difficulty="0">Fungal_Wastes + ACID</loadout>
+		<loadout difficulty="3">Fungal_Wastes + AIRSTALL</loadout>
+		<loadout difficulty="2">Fungal_Wastes + CLAW</loadout>
+		<loadout difficulty="0">Fungal_Wastes + SUPERDASH</loadout>
+		<loadout difficulty="2">Crossroads + INFECTED</loadout>
+		<loadout difficulty="0">Crossroads + DASH</loadout>
+		<loadout difficulty="0">Crossroads + WINGS</loadout>
+		<loadout difficulty="2">Crossroads + CLAW + AIRSTALL</loadout>
+	</location>
+	<location name="Soul_Totem-Basin">
+		<loadout difficulty="0">Mid_Basin</loadout>
+	</location>
+	<location name="Soul_Totem-Cliffs_Main">
+		<loadout difficulty="0">Howling_Cliffs</loadout>
+	</location>
+	<location name="Soul_Totem-Cliffs_Gorb">
+		<loadout difficulty="0">Howling_Cliffs</loadout>
+	</location>
+	<location name="Soul_Totem-Cliffs_Joni's">
+		<loadout difficulty="1">Howling_Cliffs + LANTERN</loadout>
+		<loadout difficulty="5">Howling_Cliffs + DARKROOMS</loadout>
+		<loadout difficulty="4">Howling_Cliffs + DARKROOMS + SUPERDASH</loadout>
+		<loadout difficulty="3">Howling_Cliffs + DARKROOMS + SUPERDASH + CLAW</loadout>
+		<loadout difficulty="3">Howling_Cliffs + DARKROOMS + SUPERDASH + WINGS</loadout>
+	</location>
+	<location name="Soul_Totem-Crossroads_Goam_Journal">
+		<loadout difficulty="0">Crossroads + DASH</loadout>
+		<loadout difficulty="0">Crossroads + WINGS</loadout>
+		<loadout difficulty="2">Crossroads + CLAW + AIRSTALL</loadout>
+		<loadout difficulty="2">Crossroads + CLAW + INFECTED</loadout>
+		<loadout difficulty="1">Crossroads + CLAW + Fungal_Wastes</loadout>
+	</location>
+	<location name="Soul_Totem-Crossroads_Shops">
+		<loadout difficulty="0">Crossroads</loadout>
+	</location>
+	<location name="Soul_Totem-Crossroads_Mawlek_Upper">
+		<loadout difficulty="0">Crossroads</loadout>
+	</location>
+	<location name="Soul_Totem-Crossroads_Acid">
+		<loadout difficulty="1">Crossroads + ACIDSKIPS + CLAW + SUPERDASH</loadout>
+		<loadout difficulty="3">Crossroads + ACIDSKIPS + WINGS + DASH</loadout>
+		<loadout difficulty="0">Crossroads + ACID</loadout>
+		<loadout difficulty="0">Right_Fog_Canyon + CLAW</loadout>
+		<loadout difficulty="0">Right_Fog_Canyon + WINGS</loadout>
+		<loadout difficulty="1">Right_Fog_Canyon + DASH + MILDSKIPS</loadout>
+	</location>
+	<location name="Soul_Totem-Crossroads_Mawlek_Lower">
+		<loadout difficulty="1">Crossroads</loadout>
+	</location>
+	<location name="Soul_Totem-Crossroads_Myla">
+		<loadout difficulty="0">Crossroads</loadout>
+	</location>
+	<location name="Soul_Totem-Ancestral_Mound">
+		<loadout difficulty="0">Ancestral_Mound</loadout>
+	</location>
+	<location name="Soul_Totem-Distant_Village">
+		<loadout difficulty="3">Distant_Village</loadout>
+		<loadout difficulty="2">Distant_Village + CLAW</loadout>
+		<loadout difficulty="2">Distant_Village + WINGS</loadout>
+	</location>
+	<location name="Soul_Totem-Deepnest_Vessel">
+		<loadout difficulty="1">Deepnest + CLAW</loadout>
+		<loadout difficulty="2">Deepnest + WINGS</loadout>
+	</location>
+	<location name="Soul_Totem-Mask_Maker">
+		<loadout difficulty="0">Dark_Deepnest + CLAW</loadout>
+		<loadout difficulty="1">Dark_Deepnest + WINGS</loadout>
+	</location>
+	<location name="Soul_Totem-Lower_Kingdom's_Edge_1">
+		<loadout difficulty="0">Lower_Kingdom's_Edge + CLAW</loadout>
+		<loadout difficulty="0">Lower_Kingdom's_Edge + WINGS</loadout>
+	</location>
+	<location name="Soul_Totem-Lower_Kingdom's_Edge_2">
+		<loadout difficulty="1">Lower_Kingdom's_Edge + CLAW</loadout>
+		<loadout difficulty="0">Lower_Kingdom's_Edge + WINGS</loadout>
+	</location>
+	<location name="Soul_Totem-Upper_Kingdom's_Edge">
+		<loadout difficulty="0">Upper_Kingdom's_Edge + CLAW</loadout>
+		<loadout difficulty="0">Upper_Kingdom's_Edge + WINGS</loadout>
+		<loadout difficulty="2">Upper_Kingdom's_Edge + Top_Kingdom's_Edge</loadout>
+	</location>
+	<location name="Soul_Totem-Kingdom's_Edge_Camp">
+		<loadout difficulty="0">Center_Right_Kingdom's_Edge + DASH</loadout>
+		<loadout difficulty="0">Center_Right_Kingdom's_Edge + CLAW</loadout>
+		<loadout difficulty="0">Center_Right_Kingdom's_Edge + WINGS</loadout>
+		<loadout difficulty="2">Center_Right_Kingdom's_Edge + MILDSKIPS</loadout>
+	</location>
+	<location name="Soul_Totem-Oro_Dive_2">
+		<loadout difficulty="0">Oro_Bench + QUAKE + CLAW</loadout>
+		<loadout difficulty="1">Oro_Bench + QUAKE + WINGS</loadout>
+	</location>
+	<location name="Soul_Totem-Oro_Dive_1">
+		<loadout difficulty="0">Oro_Bench + QUAKE</loadout>
+	</location>
+	<location name="Soul_Totem-Oro">
+		<loadout difficulty="0">Oro_Bench</loadout>
+	</location>
+	<location name="Soul_Totem-420_Geo_Rock">
+		<loadout difficulty="1">Oro_Bench + QUAKE + CLAW + MILDSKIPS</loadout>
+		<loadout difficulty="0">Oro_Bench + QUAKE + CLAW + DASH</loadout>
+		<loadout difficulty="2">Oro_Bench + QUAKE + WINGS + MILDSKIPS</loadout>
+		<loadout difficulty="1">Oro_Bench + QUAKE + WINGS + DASH</loadout>
+	</location>
+	<location name="Soul_Totem-Beast's_Den">
+		<loadout difficulty="3">Beast's_Den + CLAW</loadout>
+		<loadout difficulty="2">Beast's_Den + CLAW + FIREBALL</loadout>
+		<loadout difficulty="2">Beast's_Den + CLAW + SCREAM</loadout>
+		<loadout difficulty="3">Beast's_Den + WINGS</loadout>
+		<loadout difficulty="2">Beast's_Den + WINGS + FIREBALL</loadout>
+		<loadout difficulty="2">Beast's_Den + WINGS + SCREAM</loadout>
+	</location>
+	<location name="Soul_Totem-Greenpath_Hunter's_Journal">
+		<loadout difficulty="0">Greenpath</loadout>
+	</location>
+	<location name="Soul_Totem-Greenpath_MMC">
+		<loadout difficulty="0">Greenpath + DASH</loadout>
+		<loadout difficulty="0">Greenpath + CLAW</loadout>
+		<loadout difficulty="0">Greenpath + WINGS</loadout>
+		<loadout difficulty="0">Greenpath + SUPERDASH</loadout>
+		<loadout difficulty="2">Greenpath + AIRSTALL</loadout>
+		<loadout difficulty="2">Greenpath + SHADESKIPS</loadout>
+	</location>
+	<location name="Soul_Totem-Greenpath_Below_Toll">
+		<loadout difficulty="0">Greenpath</loadout>
+	</location>
+	<location name="Soul_Totem-Before_Pilgrim's_Way">
+		<loadout difficulty="0">Fungal_Wastes</loadout>
+	</location>
+	<location name="Soul_Totem-Pilgrim's_Way">
+		<loadout difficulty="0">Fungal_Wastes + CLAW + DASH</loadout>
+		<loadout difficulty="0">Fungal_Wastes + CLAW + SUPERDASH</loadout>
+		<loadout difficulty="0">Fungal_Wastes + CLAW + ACID</loadout>
+		<loadout difficulty="0">Left_City + CLAW + QUAKE</loadout>
+	</location>
+	<location name="Soul_Totem-Fungal_Core">
+		<loadout difficulty="0">Fungal_Core + CLAW</loadout>
+		<loadout difficulty="0">Fungal_Core + WINGS</loadout>
+	</location>
+	<location name="Soul_Totem-Top_Left_Queen's_Gardens">
+		<loadout difficulty="0">Top_Left_Queen's_Gardens + WINGS</loadout>
+		<loadout difficulty="0">Top_Left_Queen's_Gardens + CLAW + DASH</loadout>
+		<loadout difficulty="2">Top_Left_Queen's_Gardens + CLAW + AIRSTALL</loadout>
+	</location>
+	<location name="Soul_Totem-Below_Marmu">
+		<loadout difficulty="2">Top_Left_Queen's_Gardens</loadout>
+		<loadout difficulty="0">Queen's_Gardens_Stag + Can_Stag + DASH</loadout>
+		<loadout difficulty="0">Queen's_Gardens_Stag + Can_Stag + CLAW</loadout>
+		<loadout difficulty="0">Queen's_Gardens_Stag + Can_Stag + WINGS</loadout>
+	</location>
+	<location name="Soul_Totem-Upper_Crystal_Peak">
+		<loadout difficulty="1">Upper_Crystal_Peak</loadout>
+	</location>
+	<location name="Soul_Totem-Hallownest_Crown">
+		<loadout difficulty="1">Upper_Crystal_Peak + CLAW + DASH + QUAKE</loadout>
+		<loadout difficulty="2">Upper_Crystal_Peak + CLAW + WINGS + QUAKE</loadout>
+		<loadout difficulty="2">Upper_Crystal_Peak + CLAW + SUPERDASH + QUAKE</loadout>
+	</location>
+	<location name="Soul_Totem-Outside_Crystallized_Mound">
+		<loadout difficulty="0">Crystallized_Mound</loadout>
+	</location>
+	<location name="Soul_Totem-Crystal_Heart_1">
+		<loadout difficulty="0">Upper_Crystal_Peak + CLAW + DASH</loadout>
+		<loadout difficulty="0">Upper_Crystal_Peak + CLAW + WINGS</loadout>
+		<loadout difficulty="2">Upper_Crystal_Peak + CLAW + AIRSTALL</loadout>
+		<loadout difficulty="2">Upper_Crystal_Peak + CLAW + SUPERDASH + MILDSKIPS</loadout>
+		<loadout difficulty="4">Upper_Crystal_Peak + WINGS + SHADESKIPS</loadout>
+	</location>
+	<location name="Soul_Totem-Crystal_Heart_2">
+		<loadout difficulty="1">Upper_Crystal_Peak + CLAW + DASH</loadout>
+		<loadout difficulty="1">Upper_Crystal_Peak + CLAW + WINGS</loadout>
+		<loadout difficulty="7">Upper_Crystal_Peak + CLAW + AIRSTALL</loadout>
+		<loadout difficulty="4">Upper_Crystal_Peak + WINGS + SHADESKIPS</loadout>
+	</location>
+	<location name="Soul_Totem-Crystallized_Mound">
+		<loadout difficulty="10">Crystallized_Mound + QUAKE + CLAW</loadout>
+		<loadout difficulty="1">Crystallized_Mound + QUAKE + CLAW + DASH</loadout>
+		<loadout difficulty="3">Crystallized_Mound + QUAKE + WINGS</loadout>
+	</location>
+	<location name="Soul_Totem-Resting_Grounds">
+		<loadout difficulty="0">Upper_Resting_Grounds</loadout>
+	</location>
+	<location name="Soul_Totem-Below_Xero">
+		<loadout difficulty="0">Lower_Resting_Grounds</loadout>
+	</location>
+	<location name="Soul_Totem-Sanctum_Below_Soul_Master">
+		<loadout difficulty="2">Soul_Sanctum + CLAW + QUAKE</loadout>
+	</location>
+	<location name="Soul_Totem-Sanctum_Below_Chest">
+		<loadout difficulty="2">Soul_Sanctum + CLAW</loadout>
+	</location>
+	<location name="Soul_Totem-Sanctum_Above_Grub">
+		<loadout difficulty="2">Soul_Sanctum + CLAW + QUAKE</loadout>
+	</location>
+	<location name="Soul_Totem-Waterways_Entrance">
+		<loadout difficulty="0">Upper_Left_Waterways + DASH</loadout>
+		<loadout difficulty="0">Upper_Left_Waterways + CLAW</loadout>
+		<loadout difficulty="0">Upper_Left_Waterways + WINGS</loadout>
+		<loadout difficulty="-1">Upper_Left_Waterways + SHADESKIPS</loadout>
+		<loadout difficulty="-1">Upper_Left_Waterways + MILDSKIPS</loadout>
+		<loadout difficulty="-1">Upper_Left_Waterways + AIRSTALL</loadout>
+	</location>
+	<location name="Soul_Totem-Top_Left_Waterways">
+		<loadout difficulty="1">Upper_Left_Waterways + CLAW</loadout>
+		<loadout difficulty="2">Upper_Left_Waterways + WINGS + SPICYSKIPS</loadout>
+		<loadout difficulty="1">Far_Left_Waterways + CLAW</loadout>
+		<loadout difficulty="2">Far_Left_Waterways + WINGS + SPICYSKIPS</loadout>
+	</location>
+	<location name="Soul_Totem-Waterways_East">
+		<loadout difficulty="0">Right_Waterways + CLAW + DASH</loadout>
+		<loadout difficulty="0">Right_Waterways + CLAW + WINGS</loadout>
+		<loadout difficulty="0">Right_Waterways + CLAW + SUPERDASH</loadout>
+		<loadout difficulty="-1">Right_Waterways + CLAW + AIRSTALL</loadout>
+		<loadout difficulty="-1">Right_Waterways + CLAW + MILDSKIPS</loadout>
+	</location>
+	<location name="Soul_Totem-Waterways_Flukemarm">
+		<loadout difficulty="2">Lower_Left_Waterways</loadout>
+	</location>
+	<location name="Soul_Totem-White_Palace_Entrance">
+		<loadout difficulty="0">Palace_Grounds + AWOKEN + CLAW + WINGS</loadout>
+		<loadout difficulty="0">Palace_Grounds + AWOKEN + CLAW + DASH + SUPERDASH</loadout>
+	</location>
+	<location name="Soul_Totem-White_Palace_Hub">
+		<loadout difficulty="2">Palace_Grounds + AWOKEN + CLAW + WINGS + DASH</loadout>
+		<loadout difficulty="1">Palace_Grounds + AWOKEN + CLAW + WINGS + DASH + MINIBOSS</loadout>
+	</location>
+	<location name="Soul_Totem-White_Palace_Left">
+		<loadout difficulty="3">Palace_Grounds + AWOKEN + CLAW + WINGS + DASH</loadout>
+	</location>
+	<location name="Soul_Totem-White_Palace_Final">
+		<loadout difficulty="5">Palace_Grounds + AWOKEN + CLAW + WINGS + DASH + SUPERDASH</loadout>
+	</location>
+	<location name="Soul_Totem-White_Palace_Right">
+		<loadout difficulty="3">Palace_Grounds + AWOKEN + CLAW + WINGS + DASH</loadout>
+	</location>
+	<location name="Soul_Totem-Path_of_Pain_Below_Lever">
+		<loadout difficulty="6">Palace_Grounds + AWOKEN + CLAW + WINGS + DASH</loadout>
+	</location>
+	<location name="Soul_Totem-Path_of_Pain_Left_of_Lever">
+		<loadout difficulty="7">Palace_Grounds + AWOKEN + CLAW + WINGS + DASH</loadout>
+	</location>
+	<location name="Soul_Totem-Path_of_Pain_Entrance">
+		<loadout difficulty="4">Palace_Grounds + AWOKEN + CLAW + WINGS + DASH</loadout>
+	</location>
+	<location name="Soul_Totem-Path_of_Pain_Second">
+		<loadout difficulty="5">Palace_Grounds + AWOKEN + CLAW + WINGS + DASH</loadout>
+	</location>
+	<location name="Soul_Totem-Path_of_Pain_Hidden">
+		<loadout difficulty="8">Palace_Grounds + AWOKEN + CLAW + WINGS + DASH</loadout>
+	</location>
+	<location name="Soul_Totem-Path_of_Pain_Below_Thornskip">
+		<loadout difficulty="7">Palace_Grounds + AWOKEN + CLAW + WINGS + DASH</loadout>
+	</location>
+	<location name="Soul_Totem-Path_of_Pain_Final">
+		<loadout difficulty="9">Palace_Grounds + AWOKEN + CLAW + WINGS + DASH + SUPERDASH</loadout>
+	</location>
+	<location name="Soul_Totem-Pale_Lurker">
+		<loadout difficulty="0">Pale_Lurker_Area</loadout>
+	</location>
+	<location name="Lore_Tablet-King's_Pass">
+		<loadout difficulty="0">King's_Pass</loadout>
+	</location>
+	<location name="Radiance">
+		<loadout difficulty="5">DREAMER3 + CLAW + SHADOWDASH + BOSS</loadout>
+		<loadout difficulty="7">DREAMER3 + CLAW + QUAKE + BOSS</loadout>
+		<loadout difficulty="5">DREAMER3 + WINGS + SHADOWDASH + BOSS</loadout>
+		<loadout difficulty="7">DREAMER3 + WINGS + QUAKE + BOSS</loadout>
+	</location>
+</locations>
+<macros>
+	<macro name="King's_Pass">
+		<loadout difficulty="0">Howling_Cliffs</loadout>
+		<loadout difficulty="0">Dirtmouth + CLAW</loadout>
+	</macro>
+	<macro name="Dirtmouth">
+		<loadout difficulty="0">Crossroads</loadout>
+		<loadout difficulty="0">Upper_Crystal_Peak + CLAW + SUPERDASH</loadout>
+		<loadout difficulty="0">King's_Pass</loadout>
+		<loadout difficulty="0">Howling_Cliffs + SUPERDASH</loadout>
+		<loadout difficulty="1">Howling_Cliffs + WINGS + DASH</loadout>
+		<loadout difficulty="0">Dirtmouth_Stag + Can_Stag</loadout>
+	</macro>
+	<macro name="Can_Stag">
+		<loadout difficulty="0">Crossroads</loadout>
+		<loadout difficulty="0">Greenpath</loadout>
+		<loadout difficulty="0">Queen's_Station</loadout>
+		<loadout difficulty="0">Top_Left_Queen's_Gardens</loadout>
+		<loadout difficulty="0">Left_Elevator</loadout>
+		<loadout difficulty="0">Upper_King's_Station</loadout>
+		<loadout difficulty="0">Upper_Resting_Grounds</loadout>
+		<loadout difficulty="0">Distant_Village + CLAW</loadout>
+		<loadout difficulty="0">Distant_Village + WINGS</loadout>
+		<loadout difficulty="0">Distant_Village + Beast's_Den + DASH</loadout>
+		<loadout difficulty="0">Palace_Grounds</loadout>
+	</macro>
+	<macro name="Crossroads">
+		<loadout difficulty="0">Dirtmouth</loadout>
+		<loadout difficulty="0">Crystal_Peak + LANTERN</loadout>
+		<loadout difficulty="0">Blue_Lake + CLAW</loadout>
+		<loadout difficulty="0">Blue_Lake + WINGS</loadout>
+		<loadout difficulty="0">Fungal_Wastes + ACID</loadout>
+		<loadout difficulty="0">Fungal_Wastes + DASH</loadout>
+		<loadout difficulty="0">Fungal_Wastes + SUPERDASH</loadout>
+		<loadout difficulty="2">Fungal_Wastes + CLAW</loadout>
+		<loadout difficulty="0">Fungal_Wastes + WINGS</loadout>
+		<loadout difficulty="1">Right_Fog_Canyon + CLAW + SKIPACID</loadout>
+		<loadout difficulty="0">Right_Fog_Canyon + CLAW + ACID</loadout>
+		<loadout difficulty="2">Right_Fog_Canyon + CLAW + WINGS + DASH + ACIDSKIPS</loadout>
+		<loadout difficulty="0">Ancestral_Mound</loadout>
+		<loadout difficulty="0">Upper_Tram</loadout>
+		<loadout difficulty="0">Crossroads_Stag + Can_Stag</loadout>
+		<loadout difficulty="0">Left_Elevator</loadout>
+	</macro>
+	<macro name="Ancestral_Mound">
+		<loadout difficulty="0">Crossroads</loadout>
+	</macro>
+	<macro name="Greenpath">
+		<loadout difficulty="0">Crossroads + BALDURS</loadout>
+		<loadout difficulty="0">Howling_Cliffs</loadout>
+		<loadout difficulty="0">Left_Fog_Canyon</loadout>
+		<loadout difficulty="0">Lake_of_Unn + DASH</loadout>
+		<loadout difficulty="0">Lake_of_Unn + WINGS</loadout>
+		<loadout difficulty="0">Lake_of_Unn + CLAW + ACID</loadout>
+		<loadout difficulty="0">Lake_of_Unn + CLAW + SUPERDASH</loadout>
+		<loadout difficulty="0">Stone_Sanctuary</loadout>
+		<loadout difficulty="0">Greenpath-QG + CLAW</loadout>
+		<loadout difficulty="0">Greenpath-QG + WINGS</loadout>
+		<loadout difficulty="0">Greenpath_Stag + Can_Stag</loadout>
+	</macro>
+	<macro name="Lake_of_Unn">
+		<loadout difficulty="0">Greenpath + DASH</loadout>
+		<loadout difficulty="0">Greenpath + WINGS</loadout>
+		<loadout difficulty="0">Greenpath + SUPERDASH</loadout>
+		<loadout difficulty="0">Greenpath + ACID</loadout>
+		<loadout difficulty="-1">Greenpath + AIRSTALL</loadout>
+	</macro>
+	<macro name="Stone_Sanctuary">
+		<loadout difficulty="0">Greenpath + LANTERN</loadout>
+		<loadout difficulty="2">Greenpath + DARKROOMS</loadout>
+	</macro>
+	<macro name="Greenpath-QG">
+		<loadout difficulty="0">Greenpath + Far_Queen's_Gardens + CLAW</loadout>
+	</macro>
+	<macro name="Left_Fog_Canyon">
+		<loadout difficulty="0">Greenpath</loadout>
+		<loadout difficulty="0">Queen's_Station</loadout>
+		<loadout difficulty="0">Top_Right_Queen's_Gardens + CLAW</loadout>
+		<loadout difficulty="0">Top_Right_Queen's_Gardens + WINGS</loadout>
+		<loadout difficulty="0">Top_Right_Queen's_Gardens + ACID</loadout>
+		<loadout difficulty="3">Top_Right_Queen's_Gardens + SKIPACID</loadout>
+		<loadout difficulty="0">Right_Fog_Canyon</loadout>
+	</macro>
+	<macro name="Overgrown_Mound">
+		<loadout difficulty="0">Left_Fog_Canyon + CLAW</loadout>
+		<loadout difficulty="0">Left_Fog_Canyon + WINGS + MILDSKIPS</loadout>
+	</macro>
+	<macro name="Right_Fog_Canyon">
+		<loadout difficulty="0">Left_Fog_Canyon + SHADOWDASH</loadout>
+		<loadout difficulty="0">Fungal_Wastes + ACID</loadout>
+		<loadout difficulty="0">Crossroads + ACID</loadout>
+		<loadout difficulty="1">Crossroads + SKIPACID</loadout>
+		<loadout difficulty="2">Crossroads + WINGS + DASH + ACIDSKIPS</loadout>
+		<loadout difficulty="0">Teacher's_Archives</loadout>
+	</macro>
+	<macro name="Teacher's_Archives">
+		<loadout difficulty="0">Right_Fog_Canyon</loadout>
+	</macro>
+	<macro name="Queen's_Station">
+		<loadout difficulty="0">Left_Fog_Canyon</loadout>
+		<loadout difficulty="0">Fungal_Wastes</loadout>
+		<loadout difficulty="0">Queen's_Station_Stag + Can_Stag</loadout>
+	</macro>
+	<macro name="Fungal_Wastes">
+		<loadout difficulty="0">Queen's_Station + CLAW</loadout>
+		<loadout difficulty="0">Queen's_Station + WINGS</loadout>
+		<loadout difficulty="0">Queen's_Station + DASH</loadout>
+		<loadout difficulty="0">Queen's_Station + SUPERDASH</loadout>
+		<loadout difficulty="6">Queen's_Station + AIRSTALL</loadout>
+		<loadout difficulty="0">ACID + Right_Fog_Canyon</loadout>
+		<loadout difficulty="0">Crossroads + DASH</loadout>
+		<loadout difficulty="0">Crossroads + WINGS</loadout>
+		<loadout difficulty="1">Crossroads + INFECTED</loadout>
+		<loadout difficulty="3">Crossroads + CLAW + AIRSTALL</loadout>
+		<loadout difficulty="0">Left_City + CLAW + QUAKE</loadout>
+		<loadout difficulty="0">Left_Elevator + CLAW + QUAKE</loadout>
+		<loadout difficulty="1">Fungal_Core + CLAW</loadout>
+		<loadout difficulty="1">Fungal_Core + WINGS</loadout>
+		<loadout difficulty="0">Mantis_Village + CLAW</loadout>
+		<loadout difficulty="1">Mantis_Village + WINGS</loadout>
+		<loadout difficulty="-1">Mantis_Village + MILDSKIPS</loadout>
+		<loadout difficulty="1">Mantis_Outskirts + DASH</loadout>
+		<loadout difficulty="0">Mantis_Outskirts + CLAW</loadout>
+		<loadout difficulty="0">Mantis_Outskirts + WINGS</loadout>
+		<loadout difficulty="0">Mantis_Outskirts + ACID</loadout>
+		<loadout difficulty="3">Mantis_Outskirts + MILDSKIPS</loadout>
+	</macro>
+	<macro name="Bottom_Left_Fungal_Wastes">
+		<loadout difficulty="0">Fungal_Wastes + CLAW</loadout>
+		<loadout difficulty="-1">Fungal_Wastes + WINGS + SHADESKIPS</loadout>
+		<loadout difficulty="3">Fungal_Wastes + WINGS + SPICYSKIPS</loadout>
+		<loadout difficulty="0">Bottom_Right_Queen's_Gardens</loadout>
+		<loadout difficulty="0">Upper_Deepnest + CLAW + DASH</loadout>
+		<loadout difficulty="-1">Upper_Deepnest + CLAW + SUPERDASH</loadout>
+		<loadout difficulty="0">Upper_Deepnest + CLAW + WINGS</loadout>
+		<loadout difficulty="-1">Upper_Deepnest + CLAW + SHADESKIPS</loadout>
+		<loadout difficulty="-1">Upper_Deepnest + CLAW + SPICYSKIPS</loadout>
+		<loadout difficulty="-1">Upper_Deepnest + WINGS + SHADESKIPS</loadout>
+		<loadout difficulty="-1">Upper_Deepnest + WINGS + SPICYSKIPS</loadout>
+	</macro>
+	<macro name="Fungal_Core">
+		<loadout difficulty="0">Fungal_Wastes + CLAW + WINGS</loadout>
+	</macro>
+	<macro name="Mantis_Outskirts">
+		<loadout difficulty="0">Fungal_Wastes</loadout>
+		<loadout difficulty="0">Mantis_Village + CLAW</loadout>
+		<loadout difficulty="0">Mantis_Village + WINGS</loadout>
+		<loadout difficulty="0">Mantis_Village + ACID</loadout>
+		<loadout difficulty="-1">Mantis_Village + DASH + MILDSKIPS</loadout>
+	</macro>
+	<macro name="Mantis_Village">
+		<loadout difficulty="2">Fungal_Wastes + MILDSKIPS</loadout>
+		<loadout difficulty="0">Fungal_Wastes + CLAW</loadout>
+		<loadout difficulty="0">Fungal_Wastes + WINGS</loadout>
+		<loadout difficulty="0">Mantis_Outskirts + DASH</loadout>
+		<loadout difficulty="0">Mantis_Outskirts + CLAW</loadout>
+		<loadout difficulty="0">Mantis_Outskirts + WINGS</loadout>
+		<loadout difficulty="0">Mantis_Outskirts + SUPERDASH</loadout>
+		<loadout difficulty="0">Mantis_Outskirts + ACID</loadout>
+	</macro>
+	<macro name="Left_City">
+		<loadout difficulty="0">Fungal_Wastes + CREST + ACID</loadout>
+		<loadout difficulty="0">Fungal_Wastes + CREST + SUPERDASH</loadout>
+		<loadout difficulty="1">Fungal_Wastes + CREST + CLAW + DASH</loadout>
+		<loadout difficulty="-1">Fungal_Wastes + CREST + CLAW + WINGS</loadout>
+		<loadout difficulty="0">Right_City</loadout>
+		<loadout difficulty="0">Soul_Sanctum</loadout>
+		<loadout difficulty="0">Left_Elevator</loadout>
+	</macro>
+	<macro name="Left_Elevator">
+		<loadout difficulty="1">Left_City + CLAW + DASH</loadout>
+		<loadout difficulty="2">Left_City + CLAW + SUPERDASH</loadout>
+		<loadout difficulty="1">Left_City + CLAW + WINGS</loadout>
+		<loadout difficulty="-1">Left_City + CLAW + MILDSKIPS</loadout>
+		<loadout difficulty="-1">Left_City + WINGS + SHADESKIPS</loadout>
+		<loadout difficulty="1">Soul_Sanctum</loadout>
+		<loadout difficulty="0">City_Storerooms_Stag + Can_Stag</loadout>
+	</macro>
+	<macro name="Soul_Sanctum">
+		<loadout difficulty="1">Left_City + CLAW + DASH</loadout>
+		<loadout difficulty="2">Left_City + CLAW + SUPERDASH</loadout>
+		<loadout difficulty="1">Left_City + CLAW + WINGS</loadout>
+		<loadout difficulty="-1">Left_City + CLAW + MILDSKIPS</loadout>
+		<loadout difficulty="-1">Left_City + WINGS + MILDSKIPS</loadout>
+		<loadout difficulty="1">Left_Elevator + CLAW</loadout>
+		<loadout difficulty="1">Left_Elevator + WINGS</loadout>
+	</macro>
+	<macro name="Right_City">
+		<loadout difficulty="0">Left_City + CLAW + WINGS</loadout>
+		<loadout difficulty="0">Lower_King's_Station</loadout>
+		<loadout difficulty="0">Pleasure_House</loadout>
+		<loadout difficulty="0">Emilitia</loadout>
+		<loadout difficulty="0">Waterways_Shaft + CLAW + DASH</loadout>
+		<loadout difficulty="0">Waterways_Shaft + CLAW + WINGS</loadout>
+		<loadout difficulty="0">Waterways_Shaft + CLAW + SUPERDASH</loadout>
+		<loadout difficulty="1">Waterways_Shaft + CLAW + MILDSKIPS</loadout>
+		<loadout difficulty="3">Central_Left_Waterways + SPICYSKIPS + WINGS + BOSS</loadout>
+		<loadout difficulty="2">Central_Left_Waterways + SUPERDASH + MILDSKIPS + WINGS</loadout>
+	</macro>
+	<macro name="Lower_King's_Station">
+		<loadout difficulty="0">Right_City</loadout>
+		<loadout difficulty="0">Upper_King's_Station</loadout>
+		<loadout difficulty="0">Tower_of_Love</loadout>
+		<loadout difficulty="0">Central_Kingdom's_Edge</loadout>
+		<loadout difficulty="0">King's_Station_Stag + Can_Stag</loadout>
+	</macro>
+	<macro name="Upper_King's_Station">
+		<loadout difficulty="0">Right_City + CLAW</loadout>
+		<loadout difficulty="0">Right_City + WINGS</loadout>
+		<loadout difficulty="2">Right_City + MILDSKIPS + DASH</loadout>
+		<loadout difficulty="0">Lower_King's_Station + CLAW</loadout>
+		<loadout difficulty="0">Lower_King's_Station + WINGS</loadout>
+		<loadout difficulty="0">Right_Elevator</loadout>
+		<loadout difficulty="0">Top_Kingdom's_Edge</loadout>
+		<loadout difficulty="0">King's_Station_Stag + Can_Stag + CLAW</loadout>
+		<loadout difficulty="0">King's_Station_Stag + Can_Stag + WINGS</loadout>
+		<loadout difficulty="1">King's_Station_Stag + Can_Stag + SPICYSKIPS</loadout>
+	</macro>
+	<macro name="Right_Elevator">
+		<loadout difficulty="0">Lower_Resting_Grounds</loadout>
+		<loadout difficulty="0">Upper_King's_Station</loadout>
+	</macro>
+	<macro name="Pleasure_House">
+		<loadout difficulty="0">Right_City + Upper_King's_Station + SIMPLE4</loadout>
+		<loadout difficulty="0">Right_City + CLAW + SIMPLE4</loadout>
+		<loadout difficulty="0">Right_City + WINGS + SIMPLE4</loadout>
+		<loadout difficulty="0">Right_City + DASH + SIMPLE4</loadout>
+	</macro>
+	<macro name="Tower_of_Love">
+		<loadout difficulty="1">Upper_Kingdom's_Edge</loadout>
+	</macro>
+	<macro name="Upper_Left_Waterways">
+		<loadout difficulty="0">Left_City + SIMPLE1</loadout>
+		<loadout difficulty="0">Far_Left_Waterways + CLAW</loadout>
+		<loadout difficulty="0">Far_Left_Waterways + WINGS</loadout>
+		<loadout difficulty="0">Central_Left_Waterways + CLAW</loadout>
+		<loadout difficulty="1">Central_Left_Waterways + WINGS + MILDSKIPS</loadout>
+	</macro>
+	<macro name="Central_Left_Waterways">
+		<loadout difficulty="0">Upper_Left_Waterways</loadout>
+		<loadout difficulty="0">Lower_Left_Waterways + CLAW</loadout>
+		<loadout difficulty="-1">Lower_Left_Waterways + WINGS</loadout>
+		<loadout difficulty="3">Waterways_Shaft + TUNNEL + SUPERDASH + CLAW</loadout>
+		<loadout difficulty="3">Waterways_Shaft + TUNNEL + SUPERDASH + WINGS</loadout>
+		<loadout difficulty="-1">Waterways_Shaft + TUNNEL + SUPERDASH + SPICYSKIPS</loadout>
+		<loadout difficulty="3">Waterways_Shaft + TUNNEL + ACID + CLAW</loadout>
+		<loadout difficulty="3">Waterways_Shaft + TUNNEL + ACID + WINGS</loadout>
+		<loadout difficulty="-1">Waterways_Shaft + TUNNEL + ACID + SPICYSKIPS</loadout>
+		<loadout difficulty="1">Right_Waterways + CLAW + SUPERDASH</loadout>
+	</macro>
+	<macro name="Far_Left_Waterways">
+		<loadout difficulty="1">Upper_Left_Waterways + CLAW</loadout>
+		<loadout difficulty="1">Upper_Left_Waterways + WINGS</loadout>
+	</macro>
+	<macro name="Lower_Left_Waterways">
+		<loadout difficulty="0">Central_Left_Waterways + QUAKE</loadout>
+		<loadout difficulty="2">Junk_Pit + CLAW</loadout>
+	</macro>
+	<macro name="Waterways_Shaft">
+		<loadout difficulty="0">Right_City</loadout>
+		<loadout difficulty="0">Upper_Basin + CLAW</loadout>
+		<loadout difficulty="3">Central_Left_Waterways + CLAW</loadout>
+		<loadout difficulty="2">Central_Left_Waterways + CLAW + BOSS</loadout>
+		<loadout difficulty="3">Central_Left_Waterways + WINGS + SPICYSKIPS</loadout>
+		<loadout difficulty="2">Central_Left_Waterways + WINGS + SPICYSKIPS + BOSS</loadout>
+		<loadout difficulty="0">Central_Left_Waterways + SUPERDASH</loadout>
+		<loadout difficulty="-1">Central_Left_Waterways + ACID + TUNNEL</loadout>
+		<loadout difficulty="0">Right_Waterways + CLAW + SUPERDASH</loadout>
+		<loadout difficulty="3">Right_Waterways + CLAW + ACID + WINGS + TUNNEL</loadout>
+	</macro>
+	<macro name="Right_Waterways">
+		<loadout difficulty="0">Central_Left_Waterways + SUPERDASH + CLAW</loadout>
+		<loadout difficulty="0">Central_Left_Waterways + SUPERDASH + WINGS + ACID</loadout>
+		<loadout difficulty="3">Waterways_Shaft + TUNNEL + CLAW + SUPERDASH</loadout>
+		<loadout difficulty="-1">Waterways_Shaft + TUNNEL + CLAW + WINGS + DASH</loadout>
+		<loadout difficulty="3">Waterways_Shaft + TUNNEL + CLAW + ACID</loadout>
+		<loadout difficulty="3">Waterways_Shaft + TUNNEL + WINGS + ACID</loadout>
+		<loadout difficulty="0">Lower_Kingdom's_Edge + CLAW + SUPERDASH</loadout>
+		<loadout difficulty="0">Lower_Kingdom's_Edge + CLAW + ACID</loadout>
+		<loadout difficulty="0">Isma's_Grove + ACID</loadout>
+		<loadout difficulty="-1">Isma's_Grove + SKIPACID</loadout>
+		<loadout difficulty="0">Emilitia</loadout>
+	</macro>
+	<macro name="Junk_Pit">
+		<loadout difficulty="2">Lower_Left_Waterways + CLAW</loadout>
+		<loadout difficulty="3">Lower_Left_Waterways + WINGS</loadout>
+	</macro>
+	<macro name="Isma's_Grove">
+		<loadout difficulty="3">Right_Waterways + CLAW + Central_Left_Waterways + BOSS</loadout>
+		<loadout difficulty="0">Right_Waterways + ACID + CLAW</loadout>
+		<loadout difficulty="0">Right_Waterways + ACID + WINGS</loadout>
+		<loadout difficulty="-1">Right_Waterways + ACID + MILDSKIPS</loadout>
+		<loadout difficulty="3">Right_Waterways + SKIPACID</loadout>
+	</macro>
+	<macro name="Emilitia">
+		<loadout difficulty="0">Right_Waterways + CLAW</loadout>
+	</macro>
+	<macro name="Upper_Deepnest">
+		<loadout difficulty="0">Bottom_Left_Fungal_Wastes</loadout>
+		<loadout difficulty="0">Failed_Tramway</loadout>
+		<loadout difficulty="1">Far_Right_Deepnest + CLAW</loadout>
+	</macro>
+	<macro name="Far_Right_Deepnest">
+		<loadout difficulty="0">Mantis_Village + CLAW</loadout>
+		<loadout difficulty="1">Mantis_Village + WINGS</loadout>
+		<loadout difficulty="0">Fungal_Core</loadout>
+	</macro>
+	<macro name="Deepnest">
+		<loadout difficulty="1">Upper_Deepnest + CLAW</loadout>
+		<loadout difficulty="1">Upper_Deepnest + WINGS</loadout>
+		<loadout difficulty="0">Lower_Tram</loadout>
+		<loadout difficulty="1">Failed_Tramway</loadout>
+		<loadout difficulty="1">Dark_Deepnest + CLAW + LANTERN</loadout>
+		<loadout difficulty="-1">Dark_Deepnest + CLAW + DARKROOMS</loadout>
+		<loadout difficulty="1">Dark_Deepnest + WINGS + LANTERN</loadout>
+		<loadout difficulty="-1">Dark_Deepnest + WINGS + DARKROOMS</loadout>
+		<loadout difficulty="-1">Dark_Deepnest + DASH + LANTERN</loadout>
+		<loadout difficulty="-1">Dark_Deepnest + DASH + DARKROOMS</loadout>
+	</macro>
+	<macro name="Failed_Tramway">
+		<loadout difficulty="1">Deepnest + CLAW</loadout>
+		<loadout difficulty="1">Deepnest + WINGS</loadout>
+		<loadout difficulty="-1">Dark_Deepnest + CLAW</loadout>
+	</macro>
+	<macro name="Dark_Deepnest">
+		<loadout difficulty="1">LANTERN + Deepnest + CLAW</loadout>
+		<loadout difficulty="1">LANTERN + Deepnest + WINGS</loadout>
+		<loadout difficulty="1">LANTERN + Bottom_Left_Queen's_Gardens + CLAW</loadout>
+		<loadout difficulty="1">LANTERN + Bottom_Left_Queen's_Gardens + WINGS</loadout>
+		<loadout difficulty="1">LANTERN + Weaver's_Den</loadout>
+		<loadout difficulty="1">LANTERN + Distant_Village + CLAW</loadout>
+		<loadout difficulty="-1">DARKROOMS + Deepnest + CLAW</loadout>
+		<loadout difficulty="-1">DARKROOMS + Deepnest + WINGS</loadout>
+		<loadout difficulty="-1">DARKROOMS + Bottom_Left_Queen's_Gardens + CLAW</loadout>
+		<loadout difficulty="-1">DARKROOMS + Bottom_Left_Queen's_Gardens + WINGS</loadout>
+		<loadout difficulty="-1">DARKROOMS + Weaver's_Den</loadout>
+		<loadout difficulty="-1">DARKROOMS + Distant_Village + CLAW</loadout>
+	</macro>
+	<macro name="Weaver's_Den">
+		<loadout difficulty="1">Dark_Deepnest + DASH + CLAW</loadout>
+		<loadout difficulty="2">Dark_Deepnest + DASH + WINGS + MILDSKIPS</loadout>
+		<loadout difficulty="1">Dark_Deepnest + WINGS + CLAW</loadout>
+		<loadout difficulty="2">Dark_Deepnest + WINGS + MILDSKIPS</loadout>
+		<loadout difficulty="1">Dark_Deepnest + SUPERDASH + CLAW</loadout>
+		<loadout difficulty="2">Dark_Deepnest + SUPERDASH + WINGS + MILDSKIPS</loadout>
+		<loadout difficulty="-1">Dark_Deepnest + AIRSTALL + CLAW</loadout>
+		<loadout difficulty="-1">Dark_Deepnest + AIRSTALL + WINGS + MILDSKIPS</loadout>
+	</macro>
+	<macro name="Distant_Village">
+		<loadout difficulty="1">Dark_Deepnest + CLAW</loadout>
+		<loadout difficulty="2">Dark_Deepnest + WINGS + MILDSKIPS</loadout>
+		<loadout difficulty="0">Beast's_Den</loadout>
+		<loadout difficulty="0">Distant_Village_Stag + Can_Stag</loadout>
+	</macro>
+	<macro name="Beast's_Den">
+		<loadout difficulty="1">Dark_Deepnest + CLAW</loadout>
+		<loadout difficulty="2">Dark_Deepnest + WINGS + MILDSKIPS</loadout>
+		<loadout difficulty="0">Distant_Village_Stag + Can_Stag</loadout>
+		<loadout difficulty="0">Distant_Village + CLAW</loadout>
+		<loadout difficulty="0">Distant_Village + WINGS</loadout>
+	</macro>
+	<macro name="Lower_Tram">
+		<loadout difficulty="0">TRAM + Deepnest</loadout>
+		<loadout difficulty="0">TRAM + Mid_Basin</loadout>
+		<loadout difficulty="0">TRAM + Lower_Kingdom's_Edge</loadout>
+	</macro>
+	<macro name="Upper_Basin">
+		<loadout difficulty="0">Waterways_Shaft</loadout>
+		<loadout difficulty="0">Mid_Basin + CLAW</loadout>
+		<loadout difficulty="0">Mid_Basin + WINGS</loadout>
+	</macro>
+	<macro name="Mid_Basin">
+		<loadout difficulty="0">Upper_Basin</loadout>
+		<loadout difficulty="0">Lower_Basin + CLAW</loadout>
+		<loadout difficulty="2">Lower_Basin + WINGS + MILDSKIPS</loadout>
+		<loadout difficulty="0">Lower_Tram</loadout>
+	</macro>
+	<macro name="Lower_Basin">
+		<loadout difficulty="0">Mid_Basin</loadout>
+		<loadout difficulty="0">Abyss + CLAW + DASH</loadout>
+		<loadout difficulty="0">Abyss + WINGS</loadout>
+		<loadout difficulty="0">Palace_Grounds</loadout>
+		<loadout difficulty="1">Far_Left_Basin + CLAW</loadout>
+		<loadout difficulty="1">Far_Left_Basin + WINGS</loadout>
+		<loadout difficulty="0">Far_Left_Basin + SUPERDASH</loadout>
+	</macro>
+	<macro name="Far_Left_Basin">
+		<loadout difficulty="-1">Lower_Basin + WINGS</loadout>
+		<loadout difficulty="0">Lower_Basin + SUPERDASH</loadout>
+	</macro>
+	<macro name="Palace_Grounds">
+		<loadout difficulty="0">Lower_Basin + CLAW + WINGS</loadout>
+		<loadout difficulty="0">Hidden_Station_Stag + Can_Stag</loadout>
+	</macro>
+	<macro name="Abyss">
+		<loadout difficulty="0">Lower_Basin + King's_Brand</loadout>
+	</macro>
+	<macro name="Lower_Kingdom's_Edge">
+		<loadout difficulty="0">Lower_Tram</loadout>
+		<loadout difficulty="0">Hive + CLAW</loadout>
+		<loadout difficulty="1">Hive + WINGS</loadout>
+	</macro>
+	<macro name="Central_Kingdom's_Edge">
+		<loadout difficulty="0">Right_City</loadout>
+		<loadout difficulty="0">Lower_Kingdom's_Edge + CLAW</loadout>
+		<loadout difficulty="1">Lower_Kingdom's_Edge + WINGS</loadout>
+		<loadout difficulty="0">Upper_Kingdom's_Edge</loadout>
+		<loadout difficulty="0">Center_Right_Kingdom's_Edge</loadout>
+	</macro>
+	<macro name="Upper_Kingdom's_Edge">
+		<loadout difficulty="1">Center_Right_Kingdom's_Edge</loadout>
+		<loadout difficulty="0">Top_Kingdom's_Edge</loadout>
+		<loadout difficulty="0">Tower_of_Love</loadout>
+	</macro>
+	<macro name="Center_Right_Kingdom's_Edge">
+		<loadout difficulty="0">Central_Kingdom's_Edge + CLAW</loadout>
+		<loadout difficulty="3">Central_Kingdom's_Edge + WINGS + MILDSKIPS</loadout>
+		<loadout difficulty="1">Central_Kingdom's_Edge + ACID + DASH</loadout>
+		<loadout difficulty="1">Central_Kingdom's_Edge + ACID + WINGS</loadout>
+		<loadout difficulty="0">Upper_Kingdom's_Edge</loadout>
+		<loadout difficulty="0">Cast_Off_Shell</loadout>
+	</macro>
+	<macro name="Oro_Bench">
+		<loadout difficulty="0">Central_Kingdom's_Edge + CLAW</loadout>
+		<loadout difficulty="3">Central_Kingdom's_Edge + WINGS + MILDSKIPS</loadout>
+		<loadout difficulty="0">Center_Right_Kingdom's_Edge + CLAW</loadout>
+		<loadout difficulty="2">Center_Right_Kingdom's_Edge + WINGS</loadout>
+		<loadout difficulty="-1">Center_Right_Kingdom's_Edge + SPICYSKIPS</loadout>
+	</macro>
+	<macro name="Cast_Off_Shell">
+		<loadout difficulty="0">Upper_Kingdom's_Edge + WINGS</loadout>
+		<loadout difficulty="-1">Upper_Kingdom's_Edge + SPICYSKIPS + CLAW</loadout>
+	</macro>
+	<macro name="Top_Kingdom's_Edge">
+		<loadout difficulty="0">Upper_Kingdom's_Edge + CLAW</loadout>
+		<loadout difficulty="0">Upper_Kingdom's_Edge + WINGS</loadout>
+		<loadout difficulty="0">Colosseum</loadout>
+	</macro>
+	<macro name="Hive">
+		<loadout difficulty="0">Lower_Kingdom's_Edge + CLAW</loadout>
+		<loadout difficulty="0">Lower_Kingdom's_Edge + WINGS</loadout>
+	</macro>
+	<macro name="Colosseum">
+		<loadout difficulty="0">Top_Kingdom's_Edge</loadout>
+		<loadout difficulty="0">Pale_Lurker_Area</loadout>
+	</macro>
+	<macro name="Pale_Lurker_Area">
+		<loadout difficulty="0">Colosseum + CLAW</loadout>
+	</macro>
+	<macro name="Crystal_Peak">
+		<loadout difficulty="0">Crossroads + LANTERN</loadout>
+		<loadout difficulty="0">Crossroads + QUAKE</loadout>
+		<loadout difficulty="1">Dirtmouth + CLAW + WINGS + SUPERDASH</loadout>
+		<loadout difficulty="1">SUPERDASH + LANTERN + Crystallized_Mound</loadout>
+		<loadout difficulty="-1">SUPERDASH + DARKROOMS + Crystallized_Mound</loadout>
+		<loadout difficulty="1">WINGS + DASH + LANTERN + Crystallized_Mound</loadout>
+		<loadout difficulty="-1">WINGS + DASH + DARKROOMS + Crystallized_Mound</loadout>
+		<loadout difficulty="1">Upper_Crystal_Peak</loadout>
+	</macro>
+	<macro name="Upper_Crystal_Peak">
+		<loadout difficulty="0">Crystal_Peak + CLAW</loadout>
+		<loadout difficulty="3">Crystal_Peak + SPIKETUNNELS + WINGS + DASH</loadout>
+		<loadout difficulty="-1">Crystal_Peak + SPIKETUNNELS + WINGS + AIRSTALL</loadout>
+		<loadout difficulty="1">King's_Pass + CLAW + WINGS + SUPERDASH</loadout>
+		<loadout difficulty="2">Hallownest's_Crown</loadout>
+	</macro>
+	<macro name="Hallownest's_Crown">
+		<loadout difficulty="1">Upper_Crystal_Peak + CLAW + DASH + WINGS</loadout>
+		<loadout difficulty="1">Upper_Crystal_Peak + CLAW + DASH + MILDSKIPS</loadout>
+		<loadout difficulty="1">Upper_Crystal_Peak + CLAW + WINGS</loadout>
+		<loadout difficulty="1">Upper_Crystal_Peak + CLAW + WINGS + MILDSKIPS</loadout>
+		<loadout difficulty="1">Upper_Crystal_Peak + CLAW + SUPERDASH + WINGS</loadout>
+		<loadout difficulty="1">Upper_Crystal_Peak + CLAW + SUPERDASH + MILDSKIPS</loadout>
+	</macro>
+	<macro name="Crystallized_Mound">
+		<loadout difficulty="0">Crystal_Peak + LANTERN + WINGS + DASH</loadout>
+		<loadout difficulty="0">Crystal_Peak + LANTERN + SUPERDASH</loadout>
+		<loadout difficulty="-1">Crystal_Peak + LANTERN + AIRSTALL + WINGS</loadout>
+		<loadout difficulty="-1">Crystal_Peak + LANTERN + AIRSTALL + DASH</loadout>
+		<loadout difficulty="2">Crystal_Peak + DARKROOMS + WINGS + DASH</loadout>
+		<loadout difficulty="-1">Crystal_Peak + DARKROOMS + SUPERDASH</loadout>
+		<loadout difficulty="-1">Crystal_Peak + DARKROOMS + AIRSTALL + WINGS</loadout>
+		<loadout difficulty="-1">Crystal_Peak + DARKROOMS + AIRSTALL + DASH</loadout>
+	</macro>
+	<macro name="Upper_Tram">
+		<loadout difficulty="0">TRAM + Crossroads</loadout>
+		<loadout difficulty="0">TRAM + Upper_Resting_Grounds</loadout>
+	</macro>
+	<macro name="Upper_Resting_Grounds">
+		<loadout difficulty="0">Upper_Tram</loadout>
+		<loadout difficulty="0">Lower_Resting_Grounds + DASH</loadout>
+		<loadout difficulty="0">Lower_Resting_Grounds + CLAW</loadout>
+		<loadout difficulty="0">Lower_Resting_Grounds + WINGS</loadout>
+		<loadout difficulty="2">Lower_Resting_Grounds + MILDSKIPS</loadout>
+		<loadout difficulty="2">Crystal_Peak + LANTERN</loadout>
+		<loadout difficulty="-1">Crystal_Peak + DARKROOMS</loadout>
+		<loadout difficulty="0">Crystallized_Mound</loadout>
+		<loadout difficulty="0">Spirits_Glade</loadout>
+		<loadout difficulty="0">Resting_Grounds_Stag + Can_Stag</loadout>
+	</macro>
+	<macro name="Spirits_Glade">
+		<loadout difficulty="0">200ESSENCE + Upper_Resting_Grounds</loadout>
+	</macro>
+	<macro name="Lower_Resting_Grounds">
+		<loadout difficulty="1">Upper_Resting_Grounds + QUAKE</loadout>
+		<loadout difficulty="0">Blue_Lake</loadout>
+		<loadout difficulty="0">Right_Elevator</loadout>
+	</macro>
+	<macro name="Blue_Lake">
+		<loadout difficulty="0">Crossroads + CLAW + WINGS</loadout>
+		<loadout difficulty="0">Crossroads + CLAW + SUPERDASH</loadout>
+		<loadout difficulty="1">Crossroads + INFECTED</loadout>
+		<loadout difficulty="-1">Crossroads + SHADESKIPS + CLAW</loadout>
+		<loadout difficulty="0">Crossroads + SHADESKIPS + WINGS</loadout>
+		<loadout difficulty="3">Crossroads + SHADESKIPS + SPICYSKIPS + DASH + AIRSTALL</loadout>
+		<loadout difficulty="0">Lower_Resting_Grounds + CLAW</loadout>
+		<loadout difficulty="0">Lower_Resting_Grounds + WINGS</loadout>
+	</macro>
+	<macro name="Top_Right_Queen's_Gardens">
+		<loadout difficulty="0">Left_Fog_Canyon + ACID</loadout>
+		<loadout difficulty="4">Left_Fog_Canyon + SKIPACID</loadout>
+		<loadout difficulty="0">Left_Fog_Canyon + SHADOWDASH</loadout>
+		<loadout difficulty="-1">Top_Left_Queen's_Gardens + SUPERDASH</loadout>
+		<loadout difficulty="-1">Top_Left_Queen's_Gardens + DASH</loadout>
+		<loadout difficulty="-1">Top_Left_Queen's_Gardens + WINGS</loadout>
+	</macro>
+	<macro name="Bottom_Right_Queen's_Gardens">
+		<loadout difficulty="3">Top_Right_Queen's_Gardens + DASH</loadout>
+		<loadout difficulty="2">Top_Right_Queen's_Gardens + DASH + AERIALMINIBOSS</loadout>
+		<loadout difficulty="3">Top_Right_Queen's_Gardens + CLAW + SUPERDASH</loadout>
+		<loadout difficulty="2">Top_Right_Queen's_Gardens + CLAW + SUPERDASH + AERIALMINIBOSS</loadout>
+		<loadout difficulty="-1">Top_Right_Queen's_Gardens + WINGS + SUPERDASH</loadout>
+		<loadout difficulty="2">Bottom_Left_Queen's_Gardens + CLAW</loadout>
+	</macro>
+	<macro name="Bottom_Left_Queen's_Gardens">
+		<loadout difficulty="1">Bottom_Right_Queen's_Gardens</loadout>
+		<loadout difficulty="3">Top_Left_Queen's_Gardens + DASH</loadout>
+		<loadout difficulty="2">Top_Left_Queen's_Gardens + DASH + MINIBOSS</loadout>
+		<loadout difficulty="3">Top_Left_Queen's_Gardens + WINGS</loadout>
+		<loadout difficulty="2">Top_Left_Queen's_Gardens + WINGS + MINIBOSS</loadout>
+		<loadout difficulty="2">Dark_Deepnest + CLAW + WINGS + LANTERN</loadout>
+		<loadout difficulty="-1">Dark_Deepnest + CLAW + WINGS + DARKROOMS + SPICYSKIPS</loadout>
+		<loadout difficulty="-1">Dark_Deepnest + CLAW + DASH + MILDSKIPS + LANTERN</loadout>
+		<loadout difficulty="-1">Dark_Deepnest + CLAW + DASH + MILDSKIPS + DARKROOMS + SPICYSKIPS</loadout>
+	</macro>
+	<macro name="Top_Left_Queen's_Gardens">
+		<loadout difficulty="3">Bottom_Left_Queen's_Gardens + MINIBOSS + CLAW + DASH</loadout>
+		<loadout difficulty="3">Bottom_Left_Queen's_Gardens + MINIBOSS + CLAW + WINGS</loadout>
+		<loadout difficulty="-1">Bottom_Left_Queen's_Gardens + MINIBOSS + WINGS + MILDSKIPS + DASH</loadout>
+		<loadout difficulty="-1">Bottom_Left_Queen's_Gardens + MINIBOSS + WINGS + MILDSKIPS + WINGS</loadout>
+		<loadout difficulty="0">Queen's_Gardens_Stag + Can_Stag + CLAW</loadout>
+		<loadout difficulty="0">Queen's_Gardens_Stag + Can_Stag + WINGS</loadout>
+		<loadout difficulty="-1">Queen's_Gardens_Stag + Can_Stag + DASH + SPICYSKIPS</loadout>
+		<loadout difficulty="1">Far_Queen's_Gardens + DASH</loadout>
+	</macro>
+	<macro name="Far_Queen's_Gardens">
+		<loadout difficulty="1">Top_Left_Queen's_Gardens + CLAW + DASH</loadout>
+		<loadout difficulty="1">Top_Left_Queen's_Gardens + WINGS + DASH</loadout>
+		<loadout difficulty="0">Greenpath-QG + CLAW</loadout>
+		<loadout difficulty="1">Greenpath-QG + WINGS</loadout>
+	</macro>
+	<macro name="Howling_Cliffs">
+		<loadout difficulty="0">Greenpath + CLAW + BALDURS</loadout>
+		<loadout difficulty="0">Greenpath + CLAW + WINGS</loadout>
+		<loadout difficulty="-1">Greenpath + WINGS + AIRSTALL + SHADESKIPS + SPICYSKIPS</loadout>
+		<loadout difficulty="0">King's_Pass + CLAW</loadout>
+		<loadout difficulty="4">King's_Pass + WINGS + SPICYSKIPS</loadout>
+		<loadout difficulty="0">Stag_Nest</loadout>
+	</macro>
+	<macro name="Stag_Nest">
+		<loadout difficulty="1">Howling_Cliffs + WINGS + MILDSKIPS</loadout>
+		<loadout difficulty="0">ALLSTAGS + Can_Stag</loadout>
+		<loadout difficulty="0">Stag_Nest_Stag + Can_Stag</loadout>
+	</macro>
+	<macro name="SHADOWDASH">
+		<loadout difficulty="0">Mothwing_Cloak + Shade_Cloak</loadout>
+	</macro>
+	<macro name="CREST">
+		<loadout difficulty="0">City_Crest</loadout>
+	</macro>
+	<macro name="SIMPLE1">
+		<loadout difficulty="0">Simple_Key-Sly</loadout>
+		<loadout difficulty="0">Simple_Key-City</loadout>
+		<loadout difficulty="0">Simple_Key-Basin</loadout>
+		<loadout difficulty="0">Simple_Key-Lurker</loadout>
+	</macro>
+	<macro name="SIMPLE3">
+		<loadout difficulty="0">Simple_Key-Sly + Simple_Key-City + Simple_Key-Basin</loadout>
+		<loadout difficulty="0">Simple_Key-Lurker + Simple_Key-City + Simple_Key-Basin</loadout>
+		<loadout difficulty="0">Simple_Key-Sly + Simple_Key-Lurker + Simple_Key-Basin</loadout>
+		<loadout difficulty="0">Simple_Key-Sly + Simple_Key-City + Simple_Key-Lurker</loadout>
+	</macro>
+	<macro name="SIMPLE4">
+		<loadout difficulty="0">Simple_Key-Sly + Simple_Key-City + Simple_Key-Basin + Simple_Key-Lurker</loadout>
+	</macro>
+	<macro name="TRAM">
+		<loadout difficulty="0">Tram_Pass</loadout>
+	</macro>
+	<macro name="LANTERN">
+		<loadout difficulty="0">Lumafly_Lantern</loadout>
+	</macro>
+	<macro name="SHOPKEY">
+		<loadout difficulty="0">Shopkeeper's_Key</loadout>
+	</macro>
+	<macro name="ELEGANT">
+		<loadout difficulty="0">Elegant_Key</loadout>
+	</macro>
+	<macro name="LOVE">
+		<loadout difficulty="0">Love_Key</loadout>
+	</macro>
+	<macro name="BRAND">
+		<loadout difficulty="0">King's_Brand</loadout>
+	</macro>
+	<macro name="KINGSOUL">
+		<loadout difficulty="0">Queen_Fragment + King_Fragment</loadout>
+		<loadout difficulty="0">Queen_Fragment + Void_Heart</loadout>
+		<loadout difficulty="0">King_Fragment + Void_Heart</loadout>
+	</macro>
+	<macro name="VOIDHEART">
+		<loadout difficulty="0">Queen_Fragment + King_Fragment + Void_Heart</loadout>
+	</macro>
+	<macro name="BALDURS">
+		<loadout difficulty="0">FIREBALL</loadout>
+		<loadout difficulty="0">QUAKE</loadout>
+		<loadout difficulty="0">Grubberfly's_Elegy</loadout>
+		<loadout difficulty="0">Glowing_Womb</loadout>
+		<loadout difficulty="0">DASH + Dash_Slash</loadout>
+		<loadout difficulty="1">MILDSKIPS + Weaversong</loadout>
+		<loadout difficulty="0">MILDSKIPS + Spore_Shroom + NOTCURSED</loadout>
+		<loadout difficulty="0">MILDSKIPS + Spore_Shroom + Focus</loadout>
+		<loadout difficulty="-1">Mark_of_Pride + SPICYSKIPS</loadout>
+		<loadout difficulty="-1">Cyclone_Slash + SPICYSKIPS</loadout>
+		<loadout difficulty="-1">DASH + SPICYSKIPS</loadout>
+	</macro>
+	<macro name="SHARPSHADOW">
+		<loadout difficulty="0">Sharp_Shadow + SHADOWDASH</loadout>
+	</macro>
+	<macro name="DASHMASTER">
+		<loadout difficulty="0">Dashmaster + DASH</loadout>
+	</macro>
+	<macro name="INFECTED">
+		<loadout difficulty="0">Lurien + SPICYSKIPS</loadout>
+		<loadout difficulty="0">Monomon + SPICYSKIPS</loadout>
+		<loadout difficulty="0">Herrah + SPICYSKIPS</loadout>
+		<loadout difficulty="0">Dreamer + SPICYSKIPS</loadout>
+	</macro>
+	<macro name="DREAMER3">
+		<loadout difficulty="0">Lurien + Monomon + Herrah</loadout>
+		<loadout difficulty="0">Dreamer + Monomon + Herrah</loadout>
+		<loadout difficulty="0">Lurien + Dreamer + Herrah</loadout>
+		<loadout difficulty="0">Lurien + Monomon + Dreamer</loadout>
+	</macro>
+	<macro name="AWOKEN">
+		<loadout difficulty="0">Dream_Nail + Dream_Gate + Awoken_Dream_Nail</loadout>
+	</macro>
+	<macro name="AIRSTALL">
+		<loadout difficulty="0">FIREBALLSKIPS + FIREBALL</loadout>
+		<loadout difficulty="0">FIREBALLSKIPS + SCREAM</loadout>
+	</macro>
+	<macro name="TUNNEL">
+		<loadout difficulty="2">SPIKETUNNELS + DASH + Dashmaster</loadout>
+		<loadout difficulty="3">SPIKETUNNELS + DASH + FIREBALL</loadout>
+		<loadout difficulty="3">SPIKETUNNELS + DASH + SCREAM</loadout>
+	</macro>
+	<macro name="SKIPACID">
+		<loadout difficulty="0">CLAW + DASH + SUPERDASH + ACIDSKIPS</loadout>
+	</macro>
+	<macro name="MINIBOSS">
+		<loadout difficulty="0">FIREBALL</loadout>
+		<loadout difficulty="1">SCREAM</loadout>
+		<loadout difficulty="0">QUAKE</loadout>
+		<loadout difficulty="2">SPICYSKIPS</loadout>
+	</macro>
+	<macro name="AERIALMINIBOSS">
+		<loadout difficulty="0">FIREBALL + DASH</loadout>
+		<loadout difficulty="1">FIREBALL + MILDSKIPS</loadout>
+		<loadout difficulty="0">SCREAM + DASH</loadout>
+		<loadout difficulty="1">SCREAM + MILDSKIPS</loadout>
+		<loadout difficulty="2">SPICYSKIPS</loadout>
+	</macro>
+	<macro name="BOSS">
+		<loadout difficulty="1">Vengeful_Spirit + Shade_Soul</loadout>
+		<loadout difficulty="0">Vengeful_Spirit + Shade_Soul + Shaman_Stone</loadout>
+		<loadout difficulty="1">Desolate_Dive + Descending_Dark</loadout>
+		<loadout difficulty="0">Desolate_Dive + Descending_Dark + Shaman_Stone</loadout>
+		<loadout difficulty="2">Howling_Wraiths + Abyss_Shriek</loadout>
+		<loadout difficulty="1">Howling_Wraiths + Abyss_Shriek + Shaman_Stone</loadout>
+		<loadout difficulty="1">FIREBALL + QUAKE</loadout>
+		<loadout difficulty="0">FIREBALL + QUAKE + Shaman_Stone</loadout>
+		<loadout difficulty="2">SCREAM + QUAKE</loadout>
+		<loadout difficulty="1">SCREAM + QUAKE + Shaman_Stone</loadout>
+		<loadout difficulty="2">FIREBALL + SCREAM</loadout>
+		<loadout difficulty="1">FIREBALL + SCREAM + Shaman_Stone</loadout>
+	</macro>
+	<macro name="ALLSTAGS">
+		<loadout difficulty="0">Crossroads_Stag + Greenpath_Stag + Queen's_Station_Stag + Queen's_Gardens_Stag + City_Storerooms_Stag + King's_Station_Stag + Resting_Grounds_Stag + Distant_Village_Stag + Hidden_Station_Stag</loadout>
+	</macro>
+	<macro name="LIFEBLOOD">
+		<loadout difficulty="0">Lifeblood_Heart</loadout>
+		<loadout difficulty="0">Lifeblood_Core</loadout>
+		<loadout difficulty="0">Joni's_Blessing</loadout>
+	</macro>
+	<macro name="Nailsmith">
+		<loadout difficulty="1">Left_City + MILDSKIPS</loadout>
+		<loadout difficulty="0">Left_City + DASH</loadout>
+		<loadout difficulty="0">Left_City + WINGS</loadout>
+		<loadout difficulty="0">Left_City + CLAW</loadout>
+	</macro>
+	<macro name="NAIL1">
+		<loadout difficulty="0">Nailsmith</loadout>
+	</macro>
+	<macro name="NAIL2">
+		<loadout difficulty="0">Nailsmith + Pale_Ore-Grubs</loadout>
+		<loadout difficulty="0">Nailsmith + Pale_Ore-Seer</loadout>
+		<loadout difficulty="0">Nailsmith + Pale_Ore-Basin</loadout>
+		<loadout difficulty="0">Nailsmith + Pale_Ore-Crystal_Peak</loadout>
+		<loadout difficulty="0">Nailsmith + Pale_Ore-Nosk</loadout>
+		<loadout difficulty="0">Nailsmith + Pale_Ore-Colosseum</loadout>
+	</macro>
+	<macro name="NAIL3">
+		<loadout difficulty="0">Nailsmith + Pale_Ore-Grubs + Pale_Ore-Seer + Pale_Ore-Basin</loadout>
+		<loadout difficulty="0">Nailsmith + Pale_Ore-Grubs + Pale_Ore-Seer + Pale_Ore-Crystal_Peak</loadout>
+		<loadout difficulty="0">Nailsmith + Pale_Ore-Grubs + Pale_Ore-Seer + Pale_Ore-Nosk</loadout>
+		<loadout difficulty="0">Nailsmith + Pale_Ore-Grubs + Pale_Ore-Seer + Pale_Ore-Colosseum</loadout>
+		<loadout difficulty="0">Nailsmith + Pale_Ore-Grubs + Pale_Ore-Basin + Pale_Ore-Crystal_Peak</loadout>
+		<loadout difficulty="0">Nailsmith + Pale_Ore-Grubs + Pale_Ore-Basin + Pale_Ore-Nosk</loadout>
+		<loadout difficulty="0">Nailsmith + Pale_Ore-Grubs + Pale_Ore-Basin + Pale_Ore-Colosseum</loadout>
+		<loadout difficulty="0">Nailsmith + Pale_Ore-Grubs + Pale_Ore-Crystal_Peak + Pale_Ore-Nosk</loadout>
+		<loadout difficulty="0">Nailsmith + Pale_Ore-Grubs + Pale_Ore-Crystal_Peak + Pale_Ore-Colosseum</loadout>
+		<loadout difficulty="0">Nailsmith + Pale_Ore-Grubs + Pale_Ore-Nosk + Pale_Ore-Colosseum</loadout>
+		<loadout difficulty="0">Nailsmith + Pale_Ore-Seer + Pale_Ore-Basin + Pale_Ore-Crystal_Peak</loadout>
+		<loadout difficulty="0">Nailsmith + Pale_Ore-Seer + Pale_Ore-Basin + Pale_Ore-Nosk</loadout>
+		<loadout difficulty="0">Nailsmith + Pale_Ore-Seer + Pale_Ore-Basin + Pale_Ore-Colosseum</loadout>
+		<loadout difficulty="0">Nailsmith + Pale_Ore-Seer + Pale_Ore-Crystal_Peak + Pale_Ore-Nosk</loadout>
+		<loadout difficulty="0">Nailsmith + Pale_Ore-Seer + Pale_Ore-Crystal_Peak + Pale_Ore-Colosseum</loadout>
+		<loadout difficulty="0">Nailsmith + Pale_Ore-Seer + Pale_Ore-Nosk + Pale_Ore-Colosseum</loadout>
+		<loadout difficulty="0">Nailsmith + Pale_Ore-Basin + Pale_Ore-Crystal_Peak + Pale_Ore-Nosk</loadout>
+		<loadout difficulty="0">Nailsmith + Pale_Ore-Basin + Pale_Ore-Crystal_Peak + Pale_Ore-Colosseum</loadout>
+		<loadout difficulty="0">Nailsmith + Pale_Ore-Basin + Pale_Ore-Nosk + Pale_Ore-Colosseum</loadout>
+		<loadout difficulty="0">Nailsmith + Pale_Ore-Crystal_Peak + Pale_Ore-Nosk + Pale_Ore-Colosseum</loadout>
+	</macro>
+	<macro name="NAIL4">
+		<loadout difficulty="0">Nailsmith + Pale_Ore-Grubs + Pale_Ore-Seer + Pale_Ore-Basin + Pale_Ore-Crystal_Peak + Pale_Ore-Nosk + Pale_Ore-Colosseum</loadout>
+	</macro>
+	<macro name="DASH">
+		<loadout difficulty="0">Mothwing_Cloak</loadout>
+	</macro>
+	<macro name="CLAW">
+		<loadout difficulty="0">Mantis_Claw</loadout>
+	</macro>
+	<macro name="DREAMNAIL">
+		<loadout difficulty="0">Dream_Nail</loadout>
+	</macro>
+	<macro name="SUPERDASH">
+		<loadout difficulty="0">Crystal_Heart</loadout>
+	</macro>
+	<macro name="ACID">
+		<loadout difficulty="0">Isma's_Tear</loadout>
+	</macro>
+	<macro name="WINGS">
+		<loadout difficulty="0">Monarch_Wings</loadout>
+	</macro>
+	<macro name="FIREBALL">
+		<loadout difficulty="0">Vengeful_Spirit</loadout>
+	</macro>
+	<macro name="QUAKE">
+		<loadout difficulty="0">Desolate_Dive</loadout>
+	</macro>
+	<macro name="SCREAM">
+		<loadout difficulty="0">Howling_Wraiths</loadout>
+	</macro>
+</macros>
